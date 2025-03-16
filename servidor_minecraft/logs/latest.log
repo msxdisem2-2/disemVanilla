@@ -363,3 +363,10 @@
 [16Mar2025 02:54:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made STRANJO a server operator
 [16Mar2025 03:02:09.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [16Mar2025 03:02:09.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[16Mar2025 03:04:59.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:62438] logged in with entity id 1502 at (122.5, 67.0, 6.5)
+[16Mar2025 03:04:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[16Mar2025 03:06:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Liraanto a server operator
+[16Mar2025 03:06:18.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.78.118.111:57967] logged in with entity id 1851 at (114.6472556368793, 66.0, 17.930122660602066)
+[16Mar2025 03:06:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[16Mar2025 03:10:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Stone Age]
+[16Mar2025 03:12:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Getting an Upgrade]
