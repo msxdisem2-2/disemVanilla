@@ -2884,3 +2884,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 03:21:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Acquire Hardware]
 [16Mar2025 03:22:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Isn't It Iron Pick]
 [16Mar2025 03:22:48.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=571.85, y=106.00, z=-90.44], dimensionLocationPath overworld
+[16Mar2025 03:23:06.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:23:06.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:28:06.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:28:06.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:28:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Monster Hunter]
+[16Mar2025 03:31:52.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[16Mar2025 03:31:52.014] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:584, y:108, z:-83, dim:minecraft:overworld]
+[16Mar2025 03:31:52.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [tombstone.advancement.first_grave.title]
+[16Mar2025 03:31:52.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=584.02, y=109.00, z=-82.24]
+[16Mar2025 03:31:52.023] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[16Mar2025 03:31:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 584.500000, 108.500000, -81.500000]
+[16Mar2025 03:32:00.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=584.13, y=109.00, z=-82.75], dimensionLocationPath overworld
+[16Mar2025 03:32:00.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=584.13, y=109.00, z=-82.75] in list []
+[16Mar2025 03:33:06.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:33:06.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:35:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 499.500000, 81.500000, -96.500000]
+[16Mar2025 03:36:34.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8744, l='ServerLevel[world]', x=690.39, y=77.00, z=-258.52] died, message: 'Villager froze to death'
+[16Mar2025 03:38:06.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 03:38:06.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 03:41:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[16Mar2025 03:41:49.688] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:560, y:75, z:-52, dim:minecraft:overworld]
+[16Mar2025 03:41:49.689] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[16Mar2025 03:41:49.698] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=560.95, y=75.00, z=-51.49]
+[16Mar2025 03:41:55.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 560.500000, 75.500000, -51.500000]
+[16Mar2025 03:42:08.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=560.50, y=75.06, z=-51.50], dimensionLocationPath overworld
+[16Mar2025 03:42:08.305] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1502, l='ServerLevel[world]', x=560.50, y=75.06, z=-51.50] in list []

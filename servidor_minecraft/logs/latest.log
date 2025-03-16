@@ -381,3 +381,13 @@
 [16Mar2025 03:21:00.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [16Mar2025 03:21:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Acquire Hardware]
 [16Mar2025 03:22:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Isn't It Iron Pick]
+[16Mar2025 03:28:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Monster Hunter]
+[16Mar2025 03:31:52.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[16Mar2025 03:31:52.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [tombstone.advancement.first_grave.title]
+[16Mar2025 03:31:52.023] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[16Mar2025 03:31:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 584.500000, 108.500000, -81.500000]
+[16Mar2025 03:35:26.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 499.500000, 81.500000, -96.500000]
+[16Mar2025 03:36:34.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8744, l='ServerLevel[world]', x=690.39, y=77.00, z=-258.52] died, message: 'Villager froze to death'
+[16Mar2025 03:41:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[16Mar2025 03:41:49.689] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[16Mar2025 03:41:55.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 560.500000, 75.500000, -51.500000]
