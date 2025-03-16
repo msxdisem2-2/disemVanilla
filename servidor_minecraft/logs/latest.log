@@ -370,3 +370,14 @@
 [16Mar2025 03:06:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
 [16Mar2025 03:10:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Stone Age]
 [16Mar2025 03:12:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Getting an Upgrade]
+[16Mar2025 03:17:36.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[16Mar2025 03:17:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[16Mar2025 03:17:46.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.78.118.111:58041] logged in with entity id 4916 at (115.80053456818366, 66.0, 19.52557175225623)
+[16Mar2025 03:17:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[16Mar2025 03:19:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[16Mar2025 03:19:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Stone Age]
+[16Mar2025 03:19:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Getting an Upgrade]
+[16Mar2025 03:21:00.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[16Mar2025 03:21:00.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[16Mar2025 03:21:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Acquire Hardware]
+[16Mar2025 03:22:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Isn't It Iron Pick]
