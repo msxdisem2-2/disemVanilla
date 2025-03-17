@@ -183,3 +183,7 @@
 [17Mar2025 23:03:01.586] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
 [17Mar2025 23:03:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -903.500000, 103.500000, 874.500000]
 [17Mar2025 23:03:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -894.500000, 103.500000, 875.500000]
+[17Mar2025 23:12:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[17Mar2025 23:13:23.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -934.500000, 116.500000, 977.500000]
+[17Mar2025 23:13:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -899.500000, 103.500000, 870.500000]
+[17Mar2025 23:14:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -886.500000, 113.500000, 838.500000]
