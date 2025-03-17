@@ -156,3 +156,15 @@
 [17Mar2025 22:48:08.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
 [17Mar2025 22:48:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -944.500000, 92.500000, 1142.500000]
 [17Mar2025 22:50:11.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.ashes_and_bones.title]
+[17Mar2025 22:50:14.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.strong_or_careful.title]
+[17Mar2025 22:50:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[17Mar2025 22:50:14.198] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 22:50:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -979.500000, 96.500000, 1159.500000]
+[17Mar2025 22:51:32.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -894.500000, 104.500000, 865.500000]
+[17Mar2025 22:53:21.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[17Mar2025 22:57:18.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -939.500000, 103.500000, 859.500000]
+[17Mar2025 22:57:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -898.500000, 103.500000, 873.500000]
+[17Mar2025 22:57:42.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -902.500000, 103.500000, 880.500000]
+[17Mar2025 22:58:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -161.500000, 102.500000, 768.500000]
+[17Mar2025 22:58:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -173.500000, 107.500000, 788.500000]
+[17Mar2025 23:00:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -898.500000, 103.500000, 869.500000]
