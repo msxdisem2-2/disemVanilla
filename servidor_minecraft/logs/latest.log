@@ -130,3 +130,89 @@
 [17Mar2025 00:23:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Getting an Upgrade]
 [17Mar2025 00:23:56.001] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=19, y=95, z=396}) doesn't have enough leaves around top most log
 [17Mar2025 00:26:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[17Mar2025 00:27:11.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:56066] logged in with entity id 4637 at (-8.5, 93.0, 7.5)
+[17Mar2025 00:27:11.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[17Mar2025 00:27:15.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Eguaro a server operator]
+[17Mar2025 00:27:22.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Casita:C:122:64:204:8:false:0:Internal-overworld-waypoints
+[17Mar2025 00:30:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Stone Age]
+[17Mar2025 00:30:22.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! 8.214373737982953,-1.0,5.664345343113553
+[17Mar2025 00:30:34.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Mar2025 00:30:34.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Getting an Upgrade]
+[17Mar2025 00:30:50.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Monster Hunter]
+[17Mar2025 00:31:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -2.500000, 10.500000, 18.500000]
+[17Mar2025 00:32:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Acquire Hardware]
+[17Mar2025 00:32:10.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Monster Hunter]
+[17Mar2025 00:32:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.create_magic_tablet.title]
+[17Mar2025 00:33:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Isn't It Iron Pick]
+[17Mar2025 00:33:54.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Acquire Hardware]
+[17Mar2025 00:34:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[17Mar2025 00:34:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [tombstone.advancement.first_grave.title]
+[17Mar2025 00:34:20.832] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:34:26.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[17Mar2025 00:34:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -246.500000, 23.500000, 278.500000]
+[17Mar2025 00:34:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[17Mar2025 00:34:46.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Acquire Hardware]
+[17Mar2025 00:34:50.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:weas de la mina:W:-249:24:274:10:false:0:Internal-overworld-waypoints
+[17Mar2025 00:34:54.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Isn't It Iron Pick]
+[17Mar2025 00:35:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Mar2025 00:36:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was blown up by Creeper
+[17Mar2025 00:36:07.630] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:36:14.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -263.500000, 25.500000, 253.500000]
+[17Mar2025 00:36:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Diamonds!]
+[17Mar2025 00:37:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eguaro> xaero-waypoint:Spawner Araña:S:-7:-4:48:0:false:0:Internal-overworld-waypoints
+[17Mar2025 00:40:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Cave Spider
+[17Mar2025 00:40:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.first_grave.title]
+[17Mar2025 00:40:01.829] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:40:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[17Mar2025 00:40:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -13.500000, 4.500000, 71.500000]
+[17Mar2025 00:43:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Suit Up]
+[17Mar2025 00:44:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Isn't It Iron Pick]
+[17Mar2025 00:45:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Cave Spider
+[17Mar2025 00:45:06.328] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:45:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 11.500000, 7.500000, 75.500000]
+[17Mar2025 00:45:35.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 122.500000, 64.500000, 204.500000]
+[17Mar2025 00:45:41.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.first_knowledge.title]
+[17Mar2025 00:45:41.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.chain_death.title]
+[17Mar2025 00:45:41.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Cave Spider
+[17Mar2025 00:45:41.178] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:45:44.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 11.500000, 7.500000, 76.500000]
+[17Mar2025 00:46:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was shot by Skeleton
+[17Mar2025 00:46:38.776] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:46:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -307.500000, 23.500000, 263.500000]
+[17Mar2025 00:47:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sweet Dreams]
+[17Mar2025 00:48:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 122.500000, 64.500000, 204.500000]
+[17Mar2025 00:48:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Sweet Dreams]
+[17Mar2025 00:49:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -272.500000, 21.500000, 253.500000]
+[17Mar2025 00:49:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 122.500000, 64.500000, 204.500000]
+[17Mar2025 00:50:51.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Sweet Dreams]
+[17Mar2025 00:51:57.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 52.500000, 90.500000, 674.500000]
+[17Mar2025 00:52:31.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -96.500000, 96.500000, 704.500000]
+[17Mar2025 00:53:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro hit the ground too hard
+[17Mar2025 00:53:04.431] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:53:07.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -83.500000, 104.500000, 634.500000]
+[17Mar2025 00:53:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 122.500000, 64.500000, 204.500000]
+[17Mar2025 00:54:51.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Suit Up]
+[17Mar2025 00:56:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Suit Up]
+[17Mar2025 00:57:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 119.500000, 82.500000, 287.500000]
+[17Mar2025 00:57:33.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 135.500000, 68.500000, 230.500000]
+[17Mar2025 00:57:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 21.500000, 104.500000, 135.500000]
+[17Mar2025 00:57:45.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Hot Stuff]
+[17Mar2025 00:57:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Diamonds!]
+[17Mar2025 00:58:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 122.500000, 64.500000, 204.500000]
+[17Mar2025 00:58:15.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [A Seedy Place]
+[17Mar2025 00:58:29.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! -10.048362841868084,0.0,0.11433794728893076
+[17Mar2025 00:59:31.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Mar2025 01:00:02.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 144.500000, 70.500000, 206.500000]
+[17Mar2025 01:00:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Hot Stuff]
+[17Mar2025 01:01:54.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 145.500000, 71.500000, 206.500000]
+[17Mar2025 01:02:07.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[17Mar2025 01:02:20.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was shot by Skeleton
+[17Mar2025 01:02:20.724] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 01:02:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 427.500000, 68.500000, 76.500000]
+[17Mar2025 01:03:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! -2.2189956209762727,4.580000013113022,-8.756408101878066
+[17Mar2025 01:03:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 144.500000, 70.500000, 208.500000]
+[17Mar2025 01:04:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -183.500000, 106.500000, 781.500000]
+[17Mar2025 01:05:22.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Mar2025 01:05:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -233.500000, 63.500000, 772.500000]
+[17Mar2025 01:06:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[17Mar2025 01:07:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -190.500000, 107.500000, 787.500000]
