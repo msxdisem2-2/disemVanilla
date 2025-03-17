@@ -3641,3 +3641,75 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Mar2025 02:07:35.401] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [17Mar2025 02:07:36.204] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [17Mar2025 02:08:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -156.500000, 105.500000, 779.500000]
+[17Mar2025 02:09:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -173.500000, 107.500000, 787.500000]
+[17Mar2025 02:10:24.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44]
+[17Mar2025 02:10:25.766] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44], dimensionLocationPath overworld
+[17Mar2025 02:10:25.766] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44] in list []
+[17Mar2025 02:10:26.066] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44]
+[17Mar2025 02:10:26.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44], dimensionLocationPath overworld
+[17Mar2025 02:10:26.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44] in list []
+[17Mar2025 02:10:27.016] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44]
+[17Mar2025 02:10:27.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44], dimensionLocationPath overworld
+[17Mar2025 02:10:27.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-177.99, y=107.00, z=782.44] in list []
+[17Mar2025 02:10:46.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47]
+[17Mar2025 02:10:47.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47], dimensionLocationPath overworld
+[17Mar2025 02:10:47.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47] in list []
+[17Mar2025 02:10:48.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47]
+[17Mar2025 02:10:49.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47], dimensionLocationPath overworld
+[17Mar2025 02:10:49.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-178.38, y=107.00, z=782.47] in list []
+[17Mar2025 02:10:51.119] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-180.12, y=107.00, z=781.67]
+[17Mar2025 02:10:56.068] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-180.20, y=107.00, z=781.70], dimensionLocationPath overworld
+[17Mar2025 02:10:56.068] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-180.20, y=107.00, z=781.70] in list []
+[17Mar2025 02:11:00.516] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.43, y=107.00, z=782.57]
+[17Mar2025 02:11:00.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58], dimensionLocationPath overworld
+[17Mar2025 02:11:00.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58] in list []
+[17Mar2025 02:11:01.118] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58]
+[17Mar2025 02:11:01.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58], dimensionLocationPath overworld
+[17Mar2025 02:11:01.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58] in list []
+[17Mar2025 02:11:01.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58]
+[17Mar2025 02:11:01.369] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58], dimensionLocationPath overworld
+[17Mar2025 02:11:01.369] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58] in list []
+[17Mar2025 02:11:01.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.38, y=107.00, z=782.58]
+[17Mar2025 02:11:06.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95], dimensionLocationPath overworld
+[17Mar2025 02:11:06.618] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95] in list []
+[17Mar2025 02:11:07.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95]
+[17Mar2025 02:11:07.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95], dimensionLocationPath overworld
+[17Mar2025 02:11:07.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95] in list []
+[17Mar2025 02:11:07.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95]
+[17Mar2025 02:11:07.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95], dimensionLocationPath overworld
+[17Mar2025 02:11:07.519] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95] in list []
+[17Mar2025 02:11:08.116] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95]
+[17Mar2025 02:11:08.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95], dimensionLocationPath overworld
+[17Mar2025 02:11:08.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95] in list []
+[17Mar2025 02:11:08.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95]
+[17Mar2025 02:11:08.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95], dimensionLocationPath overworld
+[17Mar2025 02:11:08.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.49, y=107.00, z=781.95] in list []
+[17Mar2025 02:11:11.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[17Mar2025 02:11:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[17Mar2025 02:11:11.712] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/1919, l='ServerLevel[world]', x=-174.34, y=107.00, z=781.71, removed=UNLOADED_WITH_PLAYER]
+[17Mar2025 02:11:19.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[17Mar2025 02:11:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[17Mar2025 02:11:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Mar2025 02:11:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Mar2025 02:11:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Mar2025 02:11:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Mar2025 02:11:26.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Mar2025 02:11:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Mar2025 02:11:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Mar2025 02:11:26.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 02:11:26.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 02:11:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Mar2025 02:11:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Mar2025 02:11:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Mar2025 02:11:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Mar2025 02:11:26.405] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[17Mar2025 02:11:26.410] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[SERVER]
+[17Mar2025 02:11:26.410] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type COMMON
+[17Mar2025 02:11:26.413] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[COMMON]
+[17Mar2025 02:11:26.907] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[17Mar2025 02:11:26.911] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[17Mar2025 02:11:26.911] [pool-5-thread-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[17Mar2025 02:11:26.912] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file usefulbackpacks-common.toml changed, sending notifies
+[17Mar2025 02:11:26.913] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file adlods-common.toml changed, sending notifies
+[17Mar2025 02:11:26.913] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file advancednetherite-common.toml changed, sending notifies
+[17Mar2025 02:11:26.916] [pool-6-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
