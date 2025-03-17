@@ -17,7 +17,8 @@
       "minecraft:river": "2025-03-17 00:24:07 +0000",
       "minecraft:dripstone_caves": "2025-03-17 00:25:18 +0000",
       "minecraft:savanna": "2025-03-17 00:10:33 +0000",
-      "minecraft:wooded_badlands": "2025-03-16 15:56:13 +0000"
+      "minecraft:wooded_badlands": "2025-03-16 15:56:13 +0000",
+      "minecraft:plains": "2025-03-17 01:05:23 +0000"
     },
     "done": false
   },
@@ -368,6 +369,7 @@
       "minecraft:skeleton": "2025-03-17 00:30:49 +0000",
       "minecraft:spider": "2025-03-17 00:43:00 +0000",
       "minecraft:zombie": "2025-03-17 00:09:51 +0000",
+      "minecraft:creeper": "2025-03-17 01:08:40 +0000",
       "minecraft:slime": "2025-03-17 00:40:52 +0000"
     },
     "done": false
@@ -392,6 +394,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-17 01:11:40 +0000",
       "apple": "2025-03-17 00:09:55 +0000",
       "bread": "2025-03-17 00:36:32 +0000",
       "cooked_chicken": "2025-03-17 00:36:03 +0000",
@@ -586,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-17 01:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-17 00:24:23 +0000"
@@ -604,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-17 01:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-17 00:34:54 +0000"
@@ -616,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-17 01:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-17 00:34:54 +0000"
@@ -625,6 +646,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 00:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-17 01:08:18 +0000"
     },
     "done": true
   },
@@ -709,6 +736,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-17 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-17 01:06:18 +0000"
     },
     "done": true
   },
@@ -802,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 00:34:46 +0000"
@@ -856,9 +895,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-17 01:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-17 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-17 01:12:14 +0000"
     },
     "done": true
   },
@@ -880,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-17 01:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-17 00:24:07 +0000"
@@ -889,6 +946,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-17 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-17 01:09:47 +0000"
     },
     "done": true
   },
@@ -1012,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-17 00:25:34 +0000"
@@ -1066,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-17 01:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-03-17 00:33:42 +0000"
@@ -1096,9 +1171,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-17 01:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-03-17 00:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-17 01:10:50 +0000"
     },
     "done": true
   },
@@ -1168,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-17 00:29:33 +0000"
@@ -1201,6 +1294,12 @@
   "tombstone:recipe/ankh_of_prayer": {
     "criteria": {
       "has_ingredient": "2025-03-17 00:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-17 01:07:22 +0000"
     },
     "done": true
   },
