@@ -247,3 +247,19 @@
 [17Mar2025 01:26:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -180.500000, 113.500000, 782.500000]
 [17Mar2025 01:26:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Aldea:A:-185:104:777:15:false:0:Internal-overworld-waypoints
 [17Mar2025 01:27:25.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -183.500000, 82.500000, 758.500000]
+[17Mar2025 01:27:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -154.500000, 105.500000, 776.500000]
+[17Mar2025 01:28:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:portal a medias:P:174:120:644:4:false:0:Internal-overworld-waypoints
+[17Mar2025 01:28:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 155.500000, 83.500000, 534.500000]
+[17Mar2025 01:28:59.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -133.500000, 92.500000, 791.500000]
+[17Mar2025 01:29:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -154.500000, 105.500000, 779.500000]
+[17Mar2025 01:29:18.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Lava:L:146:66:205:6:false:0:Internal-overworld-waypoints
+[17Mar2025 01:30:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -270.500000, 109.500000, 745.500000]
+[17Mar2025 01:31:26.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -168.500000, 109.500000, 762.500000]
+[17Mar2025 01:32:33.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Mar2025 01:32:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[17Mar2025 01:34:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was shot by Skeleton
+[17Mar2025 01:34:54.731] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 01:35:01.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 514.500000, 68.500000, 309.500000]
+[17Mar2025 01:35:44.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26483, l='ServerLevel[world]', x=-238.33, y=104.00, z=724.30] died, message: 'Villager was slain by Zombie'
+[17Mar2025 01:36:08.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -181.500000, 106.500000, 782.500000]
+[17Mar2025 01:37:31.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Not Today, Thank You]
