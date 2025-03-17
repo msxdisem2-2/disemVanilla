@@ -117,3 +117,16 @@
 [17Mar2025 00:15:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [17Mar2025 00:15:55.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:57842] logged in with entity id 1674 at (126.10205304180498, 64.0, 204.336790043307)
 [17Mar2025 00:15:55.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[17Mar2025 00:17:10.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[17Mar2025 00:17:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[17Mar2025 00:17:32.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:58170] logged in with entity id 1919 at (123.96323325278043, 64.0, 205.63604161722898)
+[17Mar2025 00:17:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[17Mar2025 00:20:58.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:51064] logged in with entity id 2574 at (-4.5, 88.0, -0.5)
+[17Mar2025 00:20:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[17Mar2025 00:21:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Liraanto a server operator]
+[17Mar2025 00:21:44.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[17Mar2025 00:21:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Casita:C:122:64:204:8:false:0:Internal-overworld-waypoints
+[17Mar2025 00:22:51.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Stone Age]
+[17Mar2025 00:23:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Getting an Upgrade]
+[17Mar2025 00:23:56.001] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=19, y=95, z=396}) doesn't have enough leaves around top most log
+[17Mar2025 00:26:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
