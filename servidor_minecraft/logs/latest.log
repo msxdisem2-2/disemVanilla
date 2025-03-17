@@ -168,3 +168,18 @@
 [17Mar2025 22:58:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -161.500000, 102.500000, 768.500000]
 [17Mar2025 22:58:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -173.500000, 107.500000, 788.500000]
 [17Mar2025 23:00:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -898.500000, 103.500000, 869.500000]
+[17Mar2025 23:00:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -900.500000, 104.500000, 863.500000]
+[17Mar2025 23:00:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -899.500000, 103.500000, 872.500000]
+[17Mar2025 23:01:41.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15698, l='ServerLevel[world]', x=-903.47, y=103.69, z=874.09] died, message: 'Nitwit was slain by Eguaro'
+[17Mar2025 23:01:41.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.neighborhood_brawl.title]
+[17Mar2025 23:02:32.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:02:32.035] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:02:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -898.500000, 103.500000, 871.500000]
+[17Mar2025 23:02:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[17Mar2025 23:02:46.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:02:46.731] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:02:50.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -900.500000, 103.500000, 876.500000]
+[17Mar2025 23:03:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:03:01.586] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:03:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -903.500000, 103.500000, 874.500000]
+[17Mar2025 23:03:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -894.500000, 103.500000, 875.500000]

@@ -2780,3 +2780,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Mar2025 23:00:11.490] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Eguaro'/166, l='ServerLevel[world]', x=-898.50, y=103.00, z=869.50]
 [17Mar2025 23:00:18.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Mar2025 23:00:18.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:00:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -900.500000, 104.500000, 863.500000]
+[17Mar2025 23:00:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -899.500000, 103.500000, 872.500000]
+[17Mar2025 23:01:41.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15698, l='ServerLevel[world]', x=-903.47, y=103.69, z=874.09] died, message: 'Nitwit was slain by Eguaro'
+[17Mar2025 23:01:41.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.neighborhood_brawl.title]
+[17Mar2025 23:02:32.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:02:32.029] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-898, y:103, z:870, dim:minecraft:overworld]
+[17Mar2025 23:02:32.035] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:02:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -898.500000, 103.500000, 871.500000]
+[17Mar2025 23:02:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[17Mar2025 23:02:46.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:02:46.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-901, y:103, z:875, dim:minecraft:overworld]
+[17Mar2025 23:02:46.731] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:02:50.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -900.500000, 103.500000, 876.500000]
+[17Mar2025 23:03:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
+[17Mar2025 23:03:01.582] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-906, y:102, z:874, dim:minecraft:overworld]
+[17Mar2025 23:03:01.586] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 23:03:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -903.500000, 103.500000, 874.500000]
+[17Mar2025 23:03:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -894.500000, 103.500000, 875.500000]
+[17Mar2025 23:05:18.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 23:05:18.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:10:18.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 23:10:18.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

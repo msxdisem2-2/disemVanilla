@@ -2152,6 +2152,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-17 23:01:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-03-17 22:27:34 +0000"
@@ -2251,6 +2257,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-17 22:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-17 23:03:49 +0000"
     },
     "done": true
   },
