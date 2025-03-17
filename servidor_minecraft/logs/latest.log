@@ -1,115 +1,119 @@
-[16Mar2025 17:02:56.233] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[16Mar2025 17:02:56.235] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[16Mar2025 17:02:56.236] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[16Mar2025 17:02:56.582] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[16Mar2025 17:02:56.793] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[16Mar2025 17:02:57.323] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[16Mar2025 17:02:59.195] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Mar2025 17:02:59.200] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[16Mar2025 17:02:59.267] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[16Mar2025 17:02:59.328] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[16Mar2025 17:02:59.381] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.382] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.392] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.398] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.399] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.405] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.410] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.583] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.586] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.587] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.589] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.590] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.591] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.591] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.593] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:02:59.593] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Mar2025 17:03:00.693] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16Mar2025 17:03:01.150] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[16Mar2025 17:03:01.345] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[16Mar2025 17:03:09.021] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[16Mar2025 17:03:09.222] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
-[16Mar2025 17:03:09.223] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
-[16Mar2025 17:03:09.251] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[16Mar2025 17:03:10.112] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16Mar2025 17:03:10.112] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16Mar2025 17:03:10.114] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16Mar2025 17:03:10.114] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16Mar2025 17:03:10.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[16Mar2025 17:03:10.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
-[16Mar2025 17:03:10.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
-[16Mar2025 17:03:11.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
-[16Mar2025 17:03:11.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[16Mar2025 17:03:11.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
-[16Mar2025 17:03:11.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[16Mar2025 17:03:11.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
-[16Mar2025 17:03:11.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
-[16Mar2025 17:03:11.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
-[16Mar2025 17:03:11.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
-[16Mar2025 17:03:11.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
-[16Mar2025 17:03:11.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[16Mar2025 17:03:11.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
-[16Mar2025 17:03:11.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[16Mar2025 17:03:11.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
-[16Mar2025 17:03:11.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[16Mar2025 17:03:11.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
-[16Mar2025 17:03:11.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[16Mar2025 17:03:11.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[16Mar2025 17:03:11.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Mar2025 17:03:11.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
-[16Mar2025 17:03:11.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
-[16Mar2025 17:03:11.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
-[16Mar2025 17:03:11.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[16Mar2025 17:03:11.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
-[16Mar2025 17:03:11.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
-[16Mar2025 17:03:11.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
-[16Mar2025 17:03:11.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Mar2025 17:03:11.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
-[16Mar2025 17:03:12.248] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16Mar2025 17:03:15.687] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
-[16Mar2025 17:03:16.037] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
-[16Mar2025 17:03:16.044] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[16Mar2025 17:03:16.045] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
-[16Mar2025 17:03:17.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[16Mar2025 17:03:17.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Mar2025 17:03:17.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Mar2025 17:03:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Mar2025 17:03:17.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Mar2025 17:03:17.518] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Mar2025 17:03:17.577] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Mar2025 17:03:17.577] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Mar2025 17:03:17.577] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Mar2025 17:03:17.578] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Mar2025 17:03:17.633] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[16Mar2025 17:03:17.634] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[16Mar2025 17:03:17.635] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[16Mar2025 17:03:17.635] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[16Mar2025 17:03:17.636] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[16Mar2025 17:03:17.637] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[16Mar2025 17:03:17.637] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[16Mar2025 17:03:17.638] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[16Mar2025 17:03:17.638] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[16Mar2025 17:03:17.638] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[16Mar2025 17:03:17.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Mar2025 17:03:22.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Mar2025 17:03:22.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Mar2025 17:03:22.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Mar2025 17:03:23.070] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 889 ms
-[16Mar2025 17:03:23.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.481s)! For help, type "help"
-[16Mar2025 17:03:23.089] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Mar2025 17:03:32.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:50560] logged in with entity id 166 at (124.76233847735467, 111.0, 116.28289526502934)
-[16Mar2025 17:03:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
-[16Mar2025 17:03:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made STRANJO a server operator
-[16Mar2025 17:05:36.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
-[16Mar2025 17:05:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
-[16Mar2025 17:05:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[16Mar2025 17:05:44.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16Mar2025 17:05:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16Mar2025 17:05:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16Mar2025 17:05:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16Mar2025 17:05:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16Mar2025 17:05:45.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16Mar2025 17:05:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16Mar2025 17:05:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16Mar2025 17:05:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16Mar2025 17:05:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Mar2025 00:07:00.584] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[17Mar2025 00:07:00.590] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[17Mar2025 00:07:00.591] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[17Mar2025 00:07:01.021] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[17Mar2025 00:07:01.150] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[17Mar2025 00:07:01.680] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[17Mar2025 00:07:03.339] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Mar2025 00:07:03.347] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[17Mar2025 00:07:03.408] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[17Mar2025 00:07:03.455] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[17Mar2025 00:07:03.492] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.493] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.505] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.511] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.517] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.520] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.524] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.632] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.634] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.635] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.636] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.637] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.638] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.641] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.644] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:03.645] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Mar2025 00:07:04.862] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17Mar2025 00:07:05.260] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[17Mar2025 00:07:05.537] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[17Mar2025 00:07:13.438] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[17Mar2025 00:07:13.721] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
+[17Mar2025 00:07:13.721] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
+[17Mar2025 00:07:13.753] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[17Mar2025 00:07:14.941] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17Mar2025 00:07:14.942] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17Mar2025 00:07:14.943] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17Mar2025 00:07:14.943] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17Mar2025 00:07:15.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[17Mar2025 00:07:15.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
+[17Mar2025 00:07:15.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
+[17Mar2025 00:07:16.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
+[17Mar2025 00:07:16.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[17Mar2025 00:07:16.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
+[17Mar2025 00:07:16.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[17Mar2025 00:07:16.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
+[17Mar2025 00:07:16.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
+[17Mar2025 00:07:16.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
+[17Mar2025 00:07:16.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
+[17Mar2025 00:07:16.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
+[17Mar2025 00:07:16.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[17Mar2025 00:07:16.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
+[17Mar2025 00:07:16.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[17Mar2025 00:07:16.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
+[17Mar2025 00:07:16.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[17Mar2025 00:07:16.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
+[17Mar2025 00:07:16.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[17Mar2025 00:07:16.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[17Mar2025 00:07:16.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17Mar2025 00:07:16.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
+[17Mar2025 00:07:16.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
+[17Mar2025 00:07:16.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
+[17Mar2025 00:07:16.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[17Mar2025 00:07:16.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
+[17Mar2025 00:07:16.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
+[17Mar2025 00:07:16.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
+[17Mar2025 00:07:16.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Mar2025 00:07:17.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
+[17Mar2025 00:07:17.541] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17Mar2025 00:07:20.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
+[17Mar2025 00:07:21.292] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
+[17Mar2025 00:07:21.296] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[17Mar2025 00:07:21.296] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[17Mar2025 00:07:22.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[17Mar2025 00:07:22.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Mar2025 00:07:22.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Mar2025 00:07:22.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Mar2025 00:07:22.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Mar2025 00:07:22.542] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Mar2025 00:07:22.595] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Mar2025 00:07:22.596] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Mar2025 00:07:22.596] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Mar2025 00:07:22.596] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Mar2025 00:07:22.639] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[17Mar2025 00:07:22.639] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[17Mar2025 00:07:22.639] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[17Mar2025 00:07:22.640] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[17Mar2025 00:07:22.640] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[17Mar2025 00:07:22.641] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[17Mar2025 00:07:22.642] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[17Mar2025 00:07:22.642] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[17Mar2025 00:07:22.643] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[17Mar2025 00:07:22.643] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[17Mar2025 00:07:22.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Mar2025 00:07:27.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Mar2025 00:07:27.962] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 00:07:27.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Mar2025 00:07:28.128] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 654 ms
+[17Mar2025 00:07:28.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.518s)! For help, type "help"
+[17Mar2025 00:07:28.153] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Mar2025 00:08:42.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:57060] logged in with entity id 167 at (121.76946843301187, 111.0, 118.61319201177201)
+[17Mar2025 00:08:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[17Mar2025 00:09:27.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[17Mar2025 00:09:27.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[17Mar2025 00:09:41.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:57254] logged in with entity id 375 at (123.38466218354715, 111.0, 117.36780806708519)
+[17Mar2025 00:09:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[17Mar2025 00:09:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Monster Hunter]
+[17Mar2025 00:10:34.973] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@7499b208[id=e3fa7a24-a6b1-32a9-9e1d-42523f649c73,name=Liraanto,properties={}] lost connection: Disconnected
+[17Mar2025 00:11:01.315] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a9a1894[id=e3fa7a24-a6b1-32a9-9e1d-42523f649c73,name=Liraanto,properties={}] lost connection: Disconnected
+[17Mar2025 00:11:20.715] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@42d6e866[id=e3fa7a24-a6b1-32a9-9e1d-42523f649c73,name=Liraanto,properties={}] lost connection: Disconnected
+[17Mar2025 00:11:43.915] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@1148815e[id=e3fa7a24-a6b1-32a9-9e1d-42523f649c73,name=Liraanto,properties={}] lost connection: Disconnected
+[17Mar2025 00:14:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
+[17Mar2025 00:14:47.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.first_grave.title]
+[17Mar2025 00:14:47.993] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[17Mar2025 00:14:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 136.500000, 65.500000, 201.500000]
+[17Mar2025 00:14:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[17Mar2025 00:15:26.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[17Mar2025 00:15:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[17Mar2025 00:15:55.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:57842] logged in with entity id 1674 at (126.10205304180498, 64.0, 204.336790043307)
+[17Mar2025 00:15:55.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
