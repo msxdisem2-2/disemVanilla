@@ -116,3 +116,19 @@
 [19Mar2025 21:18:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -226.500000, 63.500000, 784.500000]
 [19Mar2025 21:18:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -173.500000, 107.500000, 787.500000]
 [19Mar2025 21:19:42.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[19Mar2025 21:21:24.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -911.500000, 64.500000, 1331.500000]
+[19Mar2025 21:21:57.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -622.500000, 76.500000, 1104.500000]
+[19Mar2025 21:23:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -493.500000, 63.500000, 1341.500000]
+[19Mar2025 21:23:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[19Mar2025 21:24:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[19Mar2025 21:24:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[19Mar2025 21:26:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
+[19Mar2025 21:26:45.775] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[19Mar2025 21:26:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -101.500000, 39.500000, 810.500000]
+[19Mar2025 21:28:25.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[19Mar2025 21:28:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[19Mar2025 21:29:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -907.500000, 101.500000, 869.500000]
+[19Mar2025 21:29:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -892.500000, 106.500000, 876.500000]
+[19Mar2025 21:30:07.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[19Mar2025 21:30:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[19Mar2025 21:30:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
