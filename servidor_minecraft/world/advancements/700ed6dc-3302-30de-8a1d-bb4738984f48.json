@@ -2567,5 +2567,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-19 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-03-19 22:11:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
