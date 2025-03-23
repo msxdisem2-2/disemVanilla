@@ -1,195 +1,172 @@
-[19Mar2025 21:10:55.943] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[19Mar2025 21:10:55.946] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[19Mar2025 21:10:55.947] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[19Mar2025 21:10:56.246] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[19Mar2025 21:10:56.357] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[19Mar2025 21:10:56.724] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[19Mar2025 21:10:58.125] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Mar2025 21:10:58.129] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[19Mar2025 21:10:58.170] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[19Mar2025 21:10:58.223] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[19Mar2025 21:10:58.250] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.250] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.256] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.260] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.261] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.263] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.269] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.363] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.365] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.366] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.367] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.368] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.369] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.371] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.373] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:58.374] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Mar2025 21:10:59.274] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19Mar2025 21:10:59.566] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[19Mar2025 21:10:59.654] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[19Mar2025 21:11:05.662] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[19Mar2025 21:11:05.840] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
-[19Mar2025 21:11:05.840] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
-[19Mar2025 21:11:05.860] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[19Mar2025 21:11:06.542] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Mar2025 21:11:06.542] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19Mar2025 21:11:06.545] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[19Mar2025 21:11:06.545] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Mar2025 21:11:06.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[19Mar2025 21:11:07.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
-[19Mar2025 21:11:07.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
-[19Mar2025 21:11:07.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
-[19Mar2025 21:11:07.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[19Mar2025 21:11:07.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
-[19Mar2025 21:11:07.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[19Mar2025 21:11:07.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
-[19Mar2025 21:11:07.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
-[19Mar2025 21:11:07.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
-[19Mar2025 21:11:07.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
-[19Mar2025 21:11:07.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
-[19Mar2025 21:11:07.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[19Mar2025 21:11:07.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
-[19Mar2025 21:11:07.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[19Mar2025 21:11:07.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
-[19Mar2025 21:11:07.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[19Mar2025 21:11:07.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
-[19Mar2025 21:11:07.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[19Mar2025 21:11:07.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[19Mar2025 21:11:07.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Mar2025 21:11:08.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
-[19Mar2025 21:11:08.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
-[19Mar2025 21:11:08.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
-[19Mar2025 21:11:08.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[19Mar2025 21:11:08.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
-[19Mar2025 21:11:08.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
-[19Mar2025 21:11:08.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
-[19Mar2025 21:11:08.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Mar2025 21:11:08.340] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19Mar2025 21:11:08.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
-[19Mar2025 21:11:11.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
-[19Mar2025 21:11:11.305] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
-[19Mar2025 21:11:11.309] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[19Mar2025 21:11:11.309] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
-[19Mar2025 21:11:11.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[19Mar2025 21:11:11.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Mar2025 21:11:11.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Mar2025 21:11:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Mar2025 21:11:12.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Mar2025 21:11:12.225] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Mar2025 21:11:12.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Mar2025 21:11:12.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Mar2025 21:11:12.270] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Mar2025 21:11:12.270] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Mar2025 21:11:12.304] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[19Mar2025 21:11:12.304] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[19Mar2025 21:11:12.304] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[19Mar2025 21:11:12.305] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[19Mar2025 21:11:12.305] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[19Mar2025 21:11:12.306] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[19Mar2025 21:11:12.306] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[19Mar2025 21:11:12.307] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[19Mar2025 21:11:12.307] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[19Mar2025 21:11:12.307] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[19Mar2025 21:11:12.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Mar2025 21:11:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Mar2025 21:11:15.822] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Mar2025 21:11:15.955] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 469 ms
-[19Mar2025 21:11:15.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.675s)! For help, type "help"
-[19Mar2025 21:11:15.969] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Mar2025 21:11:32.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:56018] logged in with entity id 163 at (-200.30000001192093, 64.0, 770.6999999880791)
-[19Mar2025 21:11:32.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
-[19Mar2025 21:12:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 44.500000, 74.500000, 901.500000]
-[19Mar2025 21:12:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 193.500000, 66.500000, 903.500000]
-[19Mar2025 21:12:31.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:51889] logged in with entity id 724 at (-142.3531591600159, -50.0, 186.47990673579434)
-[19Mar2025 21:12:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
-[19Mar2025 21:13:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[19Mar2025 21:13:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 226.500000, 64.500000, 1018.500000]
-[19Mar2025 21:13:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -900.500000, 103.500000, 874.500000]
-[19Mar2025 21:14:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:14:06.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
-[19Mar2025 21:14:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:14:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 122.500000, 64.500000, 204.500000]
-[19Mar2025 21:14:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:15:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:16:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:17:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:18:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -226.500000, 63.500000, 784.500000]
-[19Mar2025 21:18:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -173.500000, 107.500000, 787.500000]
-[19Mar2025 21:19:42.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:21:24.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -911.500000, 64.500000, 1331.500000]
-[19Mar2025 21:21:57.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -622.500000, 76.500000, 1104.500000]
-[19Mar2025 21:23:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -493.500000, 63.500000, 1341.500000]
-[19Mar2025 21:23:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:24:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:24:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
-[19Mar2025 21:26:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
-[19Mar2025 21:26:45.775] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[19Mar2025 21:26:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -101.500000, 39.500000, 810.500000]
-[19Mar2025 21:28:25.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
-[19Mar2025 21:28:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
-[19Mar2025 21:29:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -907.500000, 101.500000, 869.500000]
-[19Mar2025 21:29:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -892.500000, 106.500000, 876.500000]
-[19Mar2025 21:30:07.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:30:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:30:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:32:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
-[19Mar2025 21:33:18.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -196.500000, 69.500000, 763.500000]
-[19Mar2025 21:33:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:34:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -128.500000, 91.500000, 78.500000]
-[19Mar2025 21:34:40.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -98.500000, 101.500000, 93.500000]
-[19Mar2025 21:35:07.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
-[19Mar2025 21:35:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
-[19Mar2025 21:35:08.935] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[19Mar2025 21:35:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -137.500000, 28.500000, 79.500000]
-[19Mar2025 21:35:21.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -232.500000, 64.500000, 109.500000]
-[19Mar2025 21:35:35.206] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:36.757] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:37.462] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:38.358] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:39.056] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:39.760] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:40.458] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:41.357] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:42.055] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:42.760] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:43.501] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:44.209] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:44.909] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:45.606] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:46.310] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:47.006] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:47.709] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:48.404] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:49.104] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:35:49.803] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[19Mar2025 21:37:53.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 21:39:38.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 21:39:47.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
-[19Mar2025 21:44:02.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 22:06:50.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -829.500000, 122.500000, 813.500000]
-[19Mar2025 22:11:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -755.500000, -41.500000, 742.500000]
-[19Mar2025 22:11:03.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Minecraft: Trial(s) Edition]
-[19Mar2025 22:12:01.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 22:12:33.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -520.500000, -40.500000, 344.500000]
-[19Mar2025 22:14:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
-[19Mar2025 22:14:31.736] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[19Mar2025 22:14:34.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -545.500000, -41.500000, 349.500000]
-[19Mar2025 22:14:37.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.bone_crusher.title]
-[19Mar2025 22:16:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -199.500000, -45.500000, 178.500000]
-[19Mar2025 22:19:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -148.500000, -40.500000, 45.500000]
-[19Mar2025 22:20:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[19Mar2025 22:20:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[19Mar2025 22:20:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -781.500000, 120.500000, 804.500000]
-[19Mar2025 22:22:43.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
-[19Mar2025 22:22:43.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
-[19Mar2025 22:23:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Mar2025 22:23:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Mar2025 22:23:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Mar2025 22:23:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Mar2025 22:23:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19Mar2025 22:23:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19Mar2025 22:23:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19Mar2025 22:23:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19Mar2025 22:23:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Mar2025 22:23:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Mar2025 22:23:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Mar2025 19:16:21.438] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[23Mar2025 19:16:21.442] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[23Mar2025 19:16:21.443] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[23Mar2025 19:16:22.566] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[23Mar2025 19:16:22.711] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[23Mar2025 19:16:23.173] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23Mar2025 19:16:24.926] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Mar2025 19:16:24.931] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[23Mar2025 19:16:24.983] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[23Mar2025 19:16:25.026] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[23Mar2025 19:16:25.094] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.095] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.102] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.108] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.110] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.113] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.119] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.205] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.206] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.207] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.209] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.210] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.213] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.215] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.217] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:25.217] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Mar2025 19:16:27.504] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23Mar2025 19:16:28.064] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[23Mar2025 19:16:28.425] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[23Mar2025 19:16:35.384] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[23Mar2025 19:16:35.549] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
+[23Mar2025 19:16:35.554] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
+[23Mar2025 19:16:35.583] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[23Mar2025 19:16:36.342] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23Mar2025 19:16:36.343] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23Mar2025 19:16:36.346] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23Mar2025 19:16:36.347] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[23Mar2025 19:16:37.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[23Mar2025 19:16:37.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
+[23Mar2025 19:16:37.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
+[23Mar2025 19:16:37.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
+[23Mar2025 19:16:37.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[23Mar2025 19:16:38.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
+[23Mar2025 19:16:38.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[23Mar2025 19:16:38.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
+[23Mar2025 19:16:38.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
+[23Mar2025 19:16:38.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
+[23Mar2025 19:16:38.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
+[23Mar2025 19:16:38.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
+[23Mar2025 19:16:38.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[23Mar2025 19:16:38.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
+[23Mar2025 19:16:38.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[23Mar2025 19:16:38.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
+[23Mar2025 19:16:38.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[23Mar2025 19:16:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
+[23Mar2025 19:16:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[23Mar2025 19:16:38.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[23Mar2025 19:16:38.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23Mar2025 19:16:38.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
+[23Mar2025 19:16:38.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
+[23Mar2025 19:16:38.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
+[23Mar2025 19:16:38.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[23Mar2025 19:16:38.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
+[23Mar2025 19:16:38.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
+[23Mar2025 19:16:38.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
+[23Mar2025 19:16:38.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Mar2025 19:16:38.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
+[23Mar2025 19:16:38.670] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23Mar2025 19:16:41.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
+[23Mar2025 19:16:41.996] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
+[23Mar2025 19:16:42.000] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[23Mar2025 19:16:42.001] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[23Mar2025 19:16:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[23Mar2025 19:16:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Mar2025 19:16:42.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Mar2025 19:16:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Mar2025 19:16:43.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Mar2025 19:16:43.205] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Mar2025 19:16:43.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Mar2025 19:16:43.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Mar2025 19:16:43.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Mar2025 19:16:43.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Mar2025 19:16:43.337] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[23Mar2025 19:16:43.339] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[23Mar2025 19:16:43.341] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[23Mar2025 19:16:43.342] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[23Mar2025 19:16:43.342] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[23Mar2025 19:16:43.343] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[23Mar2025 19:16:43.343] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[23Mar2025 19:16:43.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Mar2025 19:16:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Mar2025 19:16:48.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 19:16:48.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Mar2025 19:16:48.326] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 912 ms
+[23Mar2025 19:16:48.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.026s)! For help, type "help"
+[23Mar2025 19:16:48.340] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Mar2025 19:17:12.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:50898] logged in with entity id 163 at (-101.7318651256463, 39.0, 815.9456276137821)
+[23Mar2025 19:17:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[23Mar2025 19:17:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.easter.title]
+[23Mar2025 19:17:59.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:61721] logged in with entity id 422 at (-807.7360885843351, 105.0, 730.3086364500191)
+[23Mar2025 19:17:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[23Mar2025 19:17:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.easter.title]
+[23Mar2025 19:18:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[23Mar2025 19:20:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -183.500000, -51.500000, 897.500000]
+[23Mar2025 19:24:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 19:24:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -253.500000, -53.500000, 886.500000]
+[23Mar2025 19:24:59.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 186.500000, 11.500000, 727.500000]
+[23Mar2025 19:26:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was blown up by Creeper
+[23Mar2025 19:26:03.087] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 19:26:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 222.500000, 0.500000, 720.500000]
+[23Mar2025 19:28:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -548.500000, -51.500000, 554.500000]
+[23Mar2025 19:29:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[23Mar2025 19:30:03.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5246, l='ServerLevel[world]', x=-268.34, y=97.00, z=753.30] died, message: 'Villager was slain by Zombie'
+[23Mar2025 19:30:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[23Mar2025 19:30:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -890.500000, 104.500000, 863.500000]
+[23Mar2025 19:31:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Take Aim]
+[23Mar2025 19:32:07.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[23Mar2025 19:32:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 182.500000, -29.500000, 717.500000]
+[23Mar2025 19:32:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sneak 100]
+[23Mar2025 19:35:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:XP:X:161:-34:714:10:false:0:Internal-overworld-waypoints
+[23Mar2025 19:35:28.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 19:35:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 19:39:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -84.500000, 63.500000, 933.500000]
+[23Mar2025 19:39:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -158.500000, 103.500000, 794.500000]
+[23Mar2025 19:40:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -190.500000, 63.500000, 745.500000]
+[23Mar2025 19:40:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -156.500000, 103.500000, 792.500000]
+[23Mar2025 19:42:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [A Seedy Place]
+[23Mar2025 19:45:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 19:46:45.146] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:45.823] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:46.766] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:47.720] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:48.428] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:49.918] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:50.763] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:51.464] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:52.314] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:53.016] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:53.714] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:55.813] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:56.515] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:57.217] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:57.919] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:58.606] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:46:59.368] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:47:00.818] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[23Mar2025 19:47:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[23Mar2025 19:48:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:nasi:N:-233:103:651:12:false:0:Internal-overworld-waypoints
+[23Mar2025 19:48:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -232.500000, 103.500000, 651.500000]
+[23Mar2025 19:48:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 19:48:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.bone_crusher.title]
+[23Mar2025 19:50:30.818] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-210, y=104, z=658}) doesn't have enough leaves around top most log
+[23Mar2025 19:51:58.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.68.88.96:53551] logged in with entity id 12256 at (9.5, 74.0, -6.5)
+[23Mar2025 19:51:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[23Mar2025 19:51:58.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.easter.title]
+[23Mar2025 19:52:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Aldea:A:-185:104:777:15:false:0:Internal-overworld-waypoints
+[23Mar2025 19:52:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Ferj2202 a server operator]
+[23Mar2025 19:52:14.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 19:53:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Isn't It Iron Pick]
+[23Mar2025 19:53:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
+[23Mar2025 19:54:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Acquire Hardware]
+[23Mar2025 19:54:07.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Suit Up]
+[23Mar2025 19:54:21.520] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=104, z=667}) doesn't have enough leaves around top most log
+[23Mar2025 19:54:22.872] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=106, z=667}) doesn't have enough leaves around top most log
+[23Mar2025 19:54:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 19:54:36.028] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=107, z=670}) doesn't have enough leaves around top most log
+[23Mar2025 19:55:27.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:nasi:N:-233:103:651:12:false:0:Internal-overworld-waypoints
+[23Mar2025 19:55:32.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 19:55:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
