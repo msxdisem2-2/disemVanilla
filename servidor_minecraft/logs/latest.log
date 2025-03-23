@@ -415,3 +415,16 @@
 [23Mar2025 21:45:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -174.500000, 107.500000, 787.500000]
 [23Mar2025 21:45:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
 [23Mar2025 21:46:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 21:48:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
+[23Mar2025 21:48:17.057] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 21:48:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 21:48:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -218.500000, 130.500000, 651.500000]
+[23Mar2025 21:49:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[23Mar2025 21:49:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 104.500000, 659.500000]
+[23Mar2025 21:51:19.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
+[23Mar2025 21:51:19.059] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 21:51:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 104.500000, 660.500000]
+[23Mar2025 21:54:11.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 21:54:11.506] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 21:54:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -212.500000, 103.500000, 658.500000]
+[23Mar2025 21:57:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
