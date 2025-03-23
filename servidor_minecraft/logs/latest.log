@@ -434,3 +434,18 @@
 [23Mar2025 22:30:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was doomed to fall by Phantom
 [23Mar2025 22:30:47.698] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
 [23Mar2025 22:32:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -204.500000, 104.500000, 675.500000]
+[23Mar2025 23:31:35.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[23Mar2025 23:31:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[23Mar2025 23:34:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Mar2025 23:34:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Mar2025 23:34:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Mar2025 23:34:30.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Server closed
+[23Mar2025 23:34:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[23Mar2025 23:34:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Mar2025 23:34:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Mar2025 23:34:31.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Mar2025 23:34:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Mar2025 23:34:31.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Mar2025 23:34:31.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Mar2025 23:34:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Mar2025 23:34:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
