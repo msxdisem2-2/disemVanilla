@@ -431,3 +431,6 @@
 [23Mar2025 22:00:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
 [23Mar2025 22:00:54.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 130.500000, 651.500000]
 [23Mar2025 22:01:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
+[23Mar2025 22:30:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was doomed to fall by Phantom
+[23Mar2025 22:30:47.698] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 22:32:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -204.500000, 104.500000, 675.500000]

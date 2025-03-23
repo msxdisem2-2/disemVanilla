@@ -4402,3 +4402,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 22:21:48.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Mar2025 22:26:48.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Mar2025 22:26:48.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 22:30:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was doomed to fall by Phantom
+[23Mar2025 22:30:47.696] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:-205, y:104, z:675, dim:minecraft:overworld]
+[23Mar2025 22:30:47.698] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 22:30:47.698] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-204.19, y=104.00, z=675.31]
+[23Mar2025 22:31:48.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 22:31:48.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 22:32:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -204.500000, 104.500000, 675.500000]
+[23Mar2025 22:32:23.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-204.50, y=104.06, z=675.50], dimensionLocationPath overworld
+[23Mar2025 22:32:23.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-204.50, y=104.06, z=675.50] in list []
+[23Mar2025 22:36:48.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 22:36:48.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
