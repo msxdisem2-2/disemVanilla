@@ -4228,3 +4228,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 21:36:48.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Mar2025 21:36:48.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Mar2025 21:37:18.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 21:38:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 21:38:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Ferj2202 to Eguaro]
+[23Mar2025 21:39:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Enderman
+[23Mar2025 21:39:23.345] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-215, y:127, z:648, dim:minecraft:overworld]
+[23Mar2025 21:39:23.351] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Eguaro'/422, l='ServerLevel[world]', x=-210.68, y=126.94, z=640.56]
+[23Mar2025 21:39:23.352] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 21:39:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[23Mar2025 21:40:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -210.500000, 127.500000, 644.500000]
+[23Mar2025 21:40:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 130.500000, 647.500000]
+[23Mar2025 21:40:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 21:41:48.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 21:41:48.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 21:42:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 21:42:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Spider]
+[23Mar2025 21:42:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Spider]
+[23Mar2025 21:42:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 130.500000, 650.500000]
+[23Mar2025 21:42:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 200 [Dirt Path] to Eguaro]
+[23Mar2025 21:43:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 104.500000, 661.500000]
+[23Mar2025 21:43:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
+[23Mar2025 21:43:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -172.500000, 107.500000, 788.500000]
+[23Mar2025 21:44:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -221.500000, 127.500000, 651.500000]
+[23Mar2025 21:44:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 21:44:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 21:45:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 21:45:10.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[23Mar2025 21:45:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[23Mar2025 21:45:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -174.500000, 107.500000, 787.500000]
+[23Mar2025 21:45:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
+[23Mar2025 21:46:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 21:46:48.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 21:46:48.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 21:47:35.998] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/48368, l='ServerLevel[world]', x=-194.55, y=103.62, z=696.46], dimensionLocationPath overworld
+[23Mar2025 21:47:35.998] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/48368, l='ServerLevel[world]', x=-194.55, y=103.62, z=696.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3]
+[23Mar2025 21:47:36.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/48368, l='ServerLevel[world]', x=-193.83, y=103.37, z=696.13, removed=DISCARDED]
