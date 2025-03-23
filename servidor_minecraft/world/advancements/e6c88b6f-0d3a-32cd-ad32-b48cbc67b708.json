@@ -89,6 +89,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-23 20:14:00 +0000"
@@ -365,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-23 20:26:49 +0000"
@@ -387,7 +405,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-23 20:11:58 +0000",
       "minecraft:witch": "2025-03-23 20:02:54 +0000",
-      "minecraft:spider": "2025-03-23 20:05:13 +0000"
+      "minecraft:spider": "2025-03-23 20:05:13 +0000",
+      "minecraft:zombie": "2025-03-23 20:54:57 +0000"
     },
     "done": false
   },
@@ -400,6 +419,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
     },
     "done": true
   },
@@ -478,6 +503,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-23 20:05:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 20:56:04 +0000"
     },
     "done": true
   },
@@ -601,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/white_marble": {
     "criteria": {
       "has_ingredient": "2025-03-23 20:12:47 +0000"
@@ -703,6 +740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-23 20:25:10 +0000"
@@ -793,6 +836,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 20:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-23 19:56:11 +0000"
@@ -802,6 +851,12 @@
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-03-23 20:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
     },
     "done": true
   },
@@ -853,9 +908,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-23 20:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 20:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
     },
     "done": true
   },
@@ -1027,6 +1100,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-23 20:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-23 20:11:09 +0000"
@@ -1107,6 +1186,12 @@
     },
     "done": true
   },
+  "tombstone:recipe/enchanted_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-23 20:55:07 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-03-23 20:16:01 +0000"
@@ -1122,6 +1207,12 @@
   "tombstone:recipe/impregnated_diamond": {
     "criteria": {
       "has_ingredient": "2025-03-23 20:12:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 20:55:05 +0000"
     },
     "done": true
   },
@@ -1146,6 +1237,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-03-23 19:53:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 20:55:05 +0000"
     },
     "done": true
   },

@@ -250,3 +250,49 @@
 [23Mar2025 20:45:34.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [String] to STRANJO]
 [23Mar2025 20:46:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 1 [Lead] to Eguaro]
 [23Mar2025 20:46:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Lead] to STRANJO]
+[23Mar2025 20:47:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 654.500000]
+[23Mar2025 20:48:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -159.500000, 104.500000, 793.500000]
+[23Mar2025 20:48:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:48:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -222.500000, 104.500000, 653.500000]
+[23Mar2025 20:49:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 20:49:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:49:23.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 20:49:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[23Mar2025 20:49:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 20:50:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO fell from a high place
+[23Mar2025 20:50:10.715] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:50:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -237.500000, 102.500000, 654.500000]
+[23Mar2025 20:50:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:50:34.958] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:50:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -238.500000, 104.500000, 628.500000]
+[23Mar2025 20:50:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.discreet_search.title]
+[23Mar2025 20:54:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.find_easter_egg.title]
+[23Mar2025 20:54:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.ambush.title]
+[23Mar2025 20:54:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
+[23Mar2025 20:54:34.163] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:54:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:54:46.807] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:54:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 659.500000]
+[23Mar2025 20:54:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 103.500000, 643.500000]
+[23Mar2025 20:54:53.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18208, l='ServerLevel[world]', x=-216.03, y=100.56, z=650.66] died, message: 'Villager was slain by Zombie'
+[23Mar2025 20:54:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18209, l='ServerLevel[world]', x=-216.54, y=100.56, z=649.45] died, message: 'Villager was slain by Zombie Villager'
+[23Mar2025 20:54:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:54:59.407] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.chain_death.title]
+[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie Villager
+[23Mar2025 20:55:04.805] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.ashes_and_bones.title]
+[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.strong_or_careful.title]
+[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was slain by Zombie
+[23Mar2025 20:55:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.first_grave.title]
+[23Mar2025 20:55:05.806] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.fortuitous_militia.title]
+[23Mar2025 20:55:12.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 100.500000, 650.500000]
+[23Mar2025 20:55:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -205.500000, 104.500000, 651.500000]
+[23Mar2025 20:55:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:56:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[23Mar2025 20:56:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
+[23Mar2025 20:56:05.877] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:56:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 20:56:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -197.500000, 103.500000, 653.500000]
+[23Mar2025 20:56:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Armadillo]

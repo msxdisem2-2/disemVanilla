@@ -3522,3 +3522,78 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 20:47:06.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/36104, l='ServerLevel[world]', x=-242.34, y=100.53, z=728.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8975, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8d05]
 [23Mar2025 20:47:06.998] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/36104, l='ServerLevel[world]', x=-242.78, y=100.28, z=728.13, removed=DISCARDED]
 [23Mar2025 20:47:07.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/36101, l='ServerLevel[world]', x=-240.79, y=100.00, z=728.13, removed=DISCARDED]
+[23Mar2025 20:47:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 654.500000]
+[23Mar2025 20:48:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -159.500000, 104.500000, 793.500000]
+[23Mar2025 20:48:25.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/35189, l='ServerLevel[world]', x=-221.38, y=103.94, z=641.32, removed=DISCARDED]
+[23Mar2025 20:48:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:48:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -222.500000, 104.500000, 653.500000]
+[23Mar2025 20:49:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
+[23Mar2025 20:49:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:49:23.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 20:49:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[23Mar2025 20:49:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[23Mar2025 20:50:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO fell from a high place
+[23Mar2025 20:50:10.709] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:-238, y:102, z:654, dim:minecraft:overworld]
+[23Mar2025 20:50:10.715] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:50:10.747] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-237.74, y=102.00, z=654.43]
+[23Mar2025 20:50:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -237.500000, 102.500000, 654.500000]
+[23Mar2025 20:50:25.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-237.50, y=102.06, z=654.50], dimensionLocationPath overworld
+[23Mar2025 20:50:25.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-237.50, y=102.06, z=654.50] in list []
+[23Mar2025 20:50:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:50:34.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-239, y:104, z:629, dim:minecraft:overworld]
+[23Mar2025 20:50:34.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Eguaro'/422, l='ServerLevel[world]', x=-238.63, y=104.00, z=629.20]
+[23Mar2025 20:50:34.958] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:50:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -238.500000, 104.500000, 628.500000]
+[23Mar2025 20:50:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.discreet_search.title]
+[23Mar2025 20:51:48.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 20:51:48.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 20:52:18.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.62, y=100.00, z=648.67]
+[23Mar2025 20:52:20.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.98, y=100.67, z=649.01], dimensionLocationPath overworld
+[23Mar2025 20:52:20.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.98, y=100.67, z=649.01] in list []
+[23Mar2025 20:52:20.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-215.12, y=100.77, z=649.07]
+[23Mar2025 20:52:21.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-216.06, y=100.80, z=648.44], dimensionLocationPath overworld
+[23Mar2025 20:52:21.652] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-216.06, y=100.80, z=648.44] in list []
+[23Mar2025 20:52:23.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.75, y=100.51, z=648.87]
+[23Mar2025 20:52:23.101] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.71, y=100.43, z=648.66], dimensionLocationPath overworld
+[23Mar2025 20:52:23.101] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-214.71, y=100.43, z=648.66] in list []
+[23Mar2025 20:54:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.find_easter_egg.title]
+[23Mar2025 20:54:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.ambush.title]
+[23Mar2025 20:54:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
+[23Mar2025 20:54:34.158] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:-220, y:104, z:640, dim:minecraft:overworld]
+[23Mar2025 20:54:34.161] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-219.43, y=103.94, z=643.42]
+[23Mar2025 20:54:34.163] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:54:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:54:46.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-217, y:104, z:658, dim:minecraft:overworld]
+[23Mar2025 20:54:46.807] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:54:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 659.500000]
+[23Mar2025 20:54:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 103.500000, 643.500000]
+[23Mar2025 20:54:53.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18208, l='ServerLevel[world]', x=-216.03, y=100.56, z=650.66] died, message: 'Villager was slain by Zombie'
+[23Mar2025 20:54:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18209, l='ServerLevel[world]', x=-216.54, y=100.56, z=649.45] died, message: 'Villager was slain by Zombie Villager'
+[23Mar2025 20:54:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
+[23Mar2025 20:54:59.403] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-219, y:101, z:648, dim:minecraft:overworld]
+[23Mar2025 20:54:59.407] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.chain_death.title]
+[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie Villager
+[23Mar2025 20:55:04.805] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.ashes_and_bones.title]
+[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.strong_or_careful.title]
+[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was slain by Zombie
+[23Mar2025 20:55:05.803] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ferj2202 was created at position [x:-198, y:103, z:652, dim:minecraft:overworld]
+[23Mar2025 20:55:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.first_grave.title]
+[23Mar2025 20:55:05.806] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:55:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.fortuitous_militia.title]
+[23Mar2025 20:55:12.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 100.500000, 650.500000]
+[23Mar2025 20:55:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -205.500000, 104.500000, 651.500000]
+[23Mar2025 20:55:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[23Mar2025 20:55:41.059] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-219.99, y=104.00, z=639.73], dimensionLocationPath overworld
+[23Mar2025 20:55:41.059] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/163, l='ServerLevel[world]', x=-219.99, y=104.00, z=639.73] in list []
+[23Mar2025 20:56:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
+[23Mar2025 20:56:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
+[23Mar2025 20:56:05.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-226, y:104, z:640, dim:minecraft:overworld]
+[23Mar2025 20:56:05.877] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[23Mar2025 20:56:05.907] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Eguaro'/422, l='ServerLevel[world]', x=-225.52, y=105.00, z=640.52]
+[23Mar2025 20:56:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
+[23Mar2025 20:56:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -197.500000, 103.500000, 653.500000]
+[23Mar2025 20:56:48.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 20:56:48.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 20:56:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Armadillo]
