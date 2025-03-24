@@ -167,3 +167,49 @@
 [24Mar2025 01:28:10.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 774.500000]
 [24Mar2025 01:31:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [tombstone.advancement.find_easter_egg.title]
 [24Mar2025 01:34:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 01:35:00.388] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-172, y=108, z=783}) doesn't have enough leaves around top most log
+[24Mar2025 01:35:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Take Aim]
+[24Mar2025 01:36:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -386.500000, 93.500000, 412.500000]
+[24Mar2025 01:36:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -59.500000, 71.500000, 867.500000]
+[24Mar2025 01:36:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -6.500000, 91.500000, 658.500000]
+[24Mar2025 01:36:43.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -70.500000, 100.500000, 510.500000]
+[24Mar2025 01:36:58.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -555.500000, 137.500000, 517.500000]
+[24Mar2025 01:38:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -520.500000, 144.500000, 487.500000]
+[24Mar2025 01:38:55.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -610.500000, 136.500000, 465.500000]
+[24Mar2025 01:38:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
+[24Mar2025 01:40:10.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[24Mar2025 01:40:10.705] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:40:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -578.500000, 136.500000, 452.500000]
+[24Mar2025 01:40:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was blown up by Creeper
+[24Mar2025 01:40:29.070] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:40:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -134.500000, 95.500000, 777.500000]
+[24Mar2025 01:41:34.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 01:41:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 01:41:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 774.500000]
+[24Mar2025 01:45:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 01:46:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The Parrots and the Bats]
+[24Mar2025 01:47:11.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -232.500000, 103.500000, 651.500000]
+[24Mar2025 01:47:48.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Iron Golem
+[24Mar2025 01:47:48.351] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:47:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -236.500000, 104.500000, 645.500000]
+[24Mar2025 01:47:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Iron Golem
+[24Mar2025 01:47:55.455] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:47:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -237.500000, 104.500000, 644.500000]
+[24Mar2025 01:48:49.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[24Mar2025 01:49:06.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[24Mar2025 01:49:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 01:49:33.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[24Mar2025 01:49:33.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[24Mar2025 01:49:38.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[24Mar2025 01:49:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[24Mar2025 01:49:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Mar2025 01:49:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Mar2025 01:49:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Mar2025 01:49:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Mar2025 01:49:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Mar2025 01:49:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Mar2025 01:49:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Mar2025 01:49:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Mar2025 01:49:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Mar2025 01:49:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Mar2025 01:49:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

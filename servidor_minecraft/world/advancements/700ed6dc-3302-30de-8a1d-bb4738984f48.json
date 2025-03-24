@@ -333,6 +333,7 @@
       "bread": "2025-03-17 00:32:22 +0000",
       "golden_apple": "2025-03-19 22:15:27 +0000",
       "cooked_rabbit": "2025-03-17 01:56:12 +0000",
+      "cooked_chicken": "2025-03-24 01:34:47 +0000",
       "rotten_flesh": "2025-03-17 00:31:21 +0000",
       "cooked_beef": "2025-03-17 00:54:21 +0000",
       "baked_potato": "2025-03-17 22:57:34 +0000",
@@ -2836,6 +2837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 01:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-24 01:11:20 +0000"
@@ -2845,6 +2852,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-24 01:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 01:35:59 +0000"
     },
     "done": true
   },
@@ -2869,6 +2882,24 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-24 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-24 01:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-24 01:37:29 +0000"
     },
     "done": true
   },
