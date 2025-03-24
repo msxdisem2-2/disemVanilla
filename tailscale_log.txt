@@ -251,3 +251,5 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2025/03/24 01:37:26 wgengine: Reconfig: configuring userspace WireGuard config (with 3/20 peers)
 2025/03/24 01:37:26 magicsock: disco: node [8Ap3L] d:49f1949d5889bdaa now using 181.116.43.133:26867 mtu=1360 tx=dae35482e58c
 2025/03/24 01:50:17 magicsock: derp-11 does not know about peer [6JNla], removing route
+2025/03/24 01:50:23 magicsock: derp-11 does not know about peer [6JNla], removing route
+2025/03/24 01:50:29 magicsock: derp-11 does not know about peer [6JNla], removing route
