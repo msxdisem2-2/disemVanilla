@@ -1,451 +1,118 @@
-[23Mar2025 19:16:21.438] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[23Mar2025 19:16:21.442] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[23Mar2025 19:16:21.443] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[23Mar2025 19:16:22.566] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[23Mar2025 19:16:22.711] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[23Mar2025 19:16:23.173] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[23Mar2025 19:16:24.926] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Mar2025 19:16:24.931] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
-[23Mar2025 19:16:24.983] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[23Mar2025 19:16:25.026] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[23Mar2025 19:16:25.094] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.095] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.102] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.108] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.110] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.113] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.119] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.205] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.206] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.207] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.209] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.210] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.213] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.215] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.217] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:25.217] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Mar2025 19:16:27.504] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23Mar2025 19:16:28.064] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[23Mar2025 19:16:28.425] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[23Mar2025 19:16:35.384] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[23Mar2025 19:16:35.549] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
-[23Mar2025 19:16:35.554] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
-[23Mar2025 19:16:35.583] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[23Mar2025 19:16:36.342] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[23Mar2025 19:16:36.343] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[23Mar2025 19:16:36.346] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[23Mar2025 19:16:36.347] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[23Mar2025 19:16:37.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[23Mar2025 19:16:37.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
-[23Mar2025 19:16:37.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
-[23Mar2025 19:16:37.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
-[23Mar2025 19:16:37.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[23Mar2025 19:16:38.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
-[23Mar2025 19:16:38.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[23Mar2025 19:16:38.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
-[23Mar2025 19:16:38.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
-[23Mar2025 19:16:38.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
-[23Mar2025 19:16:38.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
-[23Mar2025 19:16:38.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
-[23Mar2025 19:16:38.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[23Mar2025 19:16:38.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
-[23Mar2025 19:16:38.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[23Mar2025 19:16:38.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
-[23Mar2025 19:16:38.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[23Mar2025 19:16:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
-[23Mar2025 19:16:38.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[23Mar2025 19:16:38.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[23Mar2025 19:16:38.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[23Mar2025 19:16:38.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
-[23Mar2025 19:16:38.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
-[23Mar2025 19:16:38.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
-[23Mar2025 19:16:38.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[23Mar2025 19:16:38.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
-[23Mar2025 19:16:38.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
-[23Mar2025 19:16:38.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
-[23Mar2025 19:16:38.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Mar2025 19:16:38.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
-[23Mar2025 19:16:38.670] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23Mar2025 19:16:41.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
-[23Mar2025 19:16:41.996] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
-[23Mar2025 19:16:42.000] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[23Mar2025 19:16:42.001] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
-[23Mar2025 19:16:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[23Mar2025 19:16:42.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Mar2025 19:16:42.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Mar2025 19:16:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Mar2025 19:16:43.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Mar2025 19:16:43.205] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Mar2025 19:16:43.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Mar2025 19:16:43.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Mar2025 19:16:43.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Mar2025 19:16:43.284] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Mar2025 19:16:43.337] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[23Mar2025 19:16:43.338] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[23Mar2025 19:16:43.339] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[23Mar2025 19:16:43.341] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[23Mar2025 19:16:43.342] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
-[23Mar2025 19:16:43.342] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[23Mar2025 19:16:43.343] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
-[23Mar2025 19:16:43.343] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[23Mar2025 19:16:43.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Mar2025 19:16:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Mar2025 19:16:48.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 19:16:48.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Mar2025 19:16:48.326] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 912 ms
-[23Mar2025 19:16:48.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.026s)! For help, type "help"
-[23Mar2025 19:16:48.340] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Mar2025 19:17:12.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:50898] logged in with entity id 163 at (-101.7318651256463, 39.0, 815.9456276137821)
-[23Mar2025 19:17:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
-[23Mar2025 19:17:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.easter.title]
-[23Mar2025 19:17:59.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:61721] logged in with entity id 422 at (-807.7360885843351, 105.0, 730.3086364500191)
-[23Mar2025 19:17:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
-[23Mar2025 19:17:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.easter.title]
-[23Mar2025 19:18:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:20:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -183.500000, -51.500000, 897.500000]
-[23Mar2025 19:24:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 19:24:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -253.500000, -53.500000, 886.500000]
-[23Mar2025 19:24:59.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 186.500000, 11.500000, 727.500000]
-[23Mar2025 19:26:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was blown up by Creeper
-[23Mar2025 19:26:03.087] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 19:26:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 222.500000, 0.500000, 720.500000]
-[23Mar2025 19:28:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -548.500000, -51.500000, 554.500000]
-[23Mar2025 19:29:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:30:03.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5246, l='ServerLevel[world]', x=-268.34, y=97.00, z=753.30] died, message: 'Villager was slain by Zombie'
-[23Mar2025 19:30:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[23Mar2025 19:30:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -890.500000, 104.500000, 863.500000]
-[23Mar2025 19:31:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Take Aim]
-[23Mar2025 19:32:07.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:32:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 182.500000, -29.500000, 717.500000]
-[23Mar2025 19:32:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sneak 100]
-[23Mar2025 19:35:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:XP:X:161:-34:714:10:false:0:Internal-overworld-waypoints
-[23Mar2025 19:35:28.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 19:35:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 19:39:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -84.500000, 63.500000, 933.500000]
-[23Mar2025 19:39:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -158.500000, 103.500000, 794.500000]
-[23Mar2025 19:40:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -190.500000, 63.500000, 745.500000]
-[23Mar2025 19:40:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -156.500000, 103.500000, 792.500000]
-[23Mar2025 19:42:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [A Seedy Place]
-[23Mar2025 19:45:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 19:46:45.146] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:45.823] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:46.766] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:47.720] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:48.428] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:49.918] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:50.763] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:51.464] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:52.314] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:53.016] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:53.714] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:55.813] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:56.515] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:57.217] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:57.919] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:58.606] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:46:59.368] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:47:00.818] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
-[23Mar2025 19:47:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
-[23Mar2025 19:48:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:nasi:N:-233:103:651:12:false:0:Internal-overworld-waypoints
-[23Mar2025 19:48:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -232.500000, 103.500000, 651.500000]
-[23Mar2025 19:48:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 19:48:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.bone_crusher.title]
-[23Mar2025 19:50:30.818] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-210, y=104, z=658}) doesn't have enough leaves around top most log
-[23Mar2025 19:51:58.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.68.88.96:53551] logged in with entity id 12256 at (9.5, 74.0, -6.5)
-[23Mar2025 19:51:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
-[23Mar2025 19:51:58.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.easter.title]
-[23Mar2025 19:52:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Aldea:A:-185:104:777:15:false:0:Internal-overworld-waypoints
-[23Mar2025 19:52:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Ferj2202 a server operator]
-[23Mar2025 19:52:14.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:53:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Isn't It Iron Pick]
-[23Mar2025 19:53:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:54:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Acquire Hardware]
-[23Mar2025 19:54:07.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Suit Up]
-[23Mar2025 19:54:21.520] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=104, z=667}) doesn't have enough leaves around top most log
-[23Mar2025 19:54:22.872] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=106, z=667}) doesn't have enough leaves around top most log
-[23Mar2025 19:54:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 19:54:36.028] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-220, y=107, z=670}) doesn't have enough leaves around top most log
-[23Mar2025 19:55:27.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:nasi:N:-233:103:651:12:false:0:Internal-overworld-waypoints
-[23Mar2025 19:55:32.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 19:55:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 19:56:30.966] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-237, y=98, z=729}) doesn't have enough leaves around top most log
-[23Mar2025 19:56:32.269] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-237, y=97, z=729}) doesn't have enough leaves around top most log
-[23Mar2025 19:57:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Stone Age]
-[23Mar2025 19:58:53.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 79.500000, 71.500000, 1179.500000]
-[23Mar2025 19:59:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 89.500000, 108.500000, 1281.500000]
-[23Mar2025 20:00:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 269.500000, 102.500000, 1450.500000]
-[23Mar2025 20:01:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:01:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 146.500000, 66.500000, 205.500000]
-[23Mar2025 20:02:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -183.500000, 96.500000, 277.500000]
-[23Mar2025 20:02:21.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -138.500000, 114.500000, 528.500000]
-[23Mar2025 20:02:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -232.500000, 103.500000, 651.500000]
-[23Mar2025 20:02:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.first_knowledge.title]
-[23Mar2025 20:02:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.ambush.title]
-[23Mar2025 20:02:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Monster Hunter]
-[23Mar2025 20:03:18.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:05:06.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 316.500000, -17.500000, 1227.500000]
-[23Mar2025 20:05:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
-[23Mar2025 20:05:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 256.500000, -40.500000, 1385.500000]
-[23Mar2025 20:05:56.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 113.500000, -42.500000, 1336.500000]
-[23Mar2025 20:06:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Sneak 100]
-[23Mar2025 20:06:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:ancient city:A:98:-42:1338:4:false:0:Internal-overworld-waypoints
-[23Mar2025 20:07:05.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 286.500000, 67.500000, 184.500000]
-[23Mar2025 20:07:08.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 196.500000, -50.500000, 1525.500000]
-[23Mar2025 20:07:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:07:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 198.500000, -48.500000, 1588.500000]
-[23Mar2025 20:07:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.find_easter_egg.title]
-[23Mar2025 20:07:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 206.500000, -48.500000, 1599.500000]
-[23Mar2025 20:07:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Lava Bucket] to STRANJO]
-[23Mar2025 20:07:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:ancient city 2:A:190:-50:1596:11:false:0:Internal-overworld-waypoints
-[23Mar2025 20:08:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 100.500000, -41.500000, 1339.500000]
-[23Mar2025 20:09:25.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:09:35.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Sweet Dreams]
-[23Mar2025 20:10:47.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -298.500000, 136.500000, 889.500000]
-[23Mar2025 20:11:23.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -316.500000, 98.500000, 861.500000]
-[23Mar2025 20:12:45.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.find_grave_dust.title]
-[23Mar2025 20:12:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:14:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
-[23Mar2025 20:14:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:20:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -102.500000, 99.500000, 718.500000]
-[23Mar2025 20:20:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -9.500000, 96.500000, 737.500000]
-[23Mar2025 20:21:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -116.500000, 70.500000, 973.500000]
-[23Mar2025 20:21:42.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -50.500000, 96.500000, 686.500000]
-[23Mar2025 20:22:23.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -213.500000, 107.500000, 694.500000]
-[23Mar2025 20:22:47.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -468.500000, 114.500000, 745.500000]
-[23Mar2025 20:24:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
-[23Mar2025 20:24:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -542.500000, 116.500000, 740.500000]
-[23Mar2025 20:25:10.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Best Friends Forever]
-[23Mar2025 20:25:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [The Parrots and the Bats]
-[23Mar2025 20:30:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:32:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:33:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -342.500000, 107.500000, 902.500000]
-[23Mar2025 20:33:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -742.500000, 121.500000, 748.500000]
-[23Mar2025 20:34:08.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
-[23Mar2025 20:34:20.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:34:29.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -889.500000, 104.500000, 870.500000]
-[23Mar2025 20:34:35.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -987.500000, 121.500000, 995.500000]
-[23Mar2025 20:34:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -886.500000, 82.500000, 1091.500000]
-[23Mar2025 20:34:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1056.500000, 110.500000, 1034.500000]
-[23Mar2025 20:35:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:35:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1046.500000, 110.500000, 1017.500000]
-[23Mar2025 20:35:18.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:bosque cerezo:B:-1047:110:1017:13:false:0:Internal-overworld-waypoints
-[23Mar2025 20:35:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -900.500000, 82.500000, 1087.500000]
-[23Mar2025 20:35:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1122.500000, 105.500000, 959.500000]
-[23Mar2025 20:35:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:38:00.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Enderman
-[23Mar2025 20:38:00.857] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:38:04.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -191.500000, 103.500000, 629.500000]
-[23Mar2025 20:39:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Diamonds!]
-[23Mar2025 20:40:04.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the time to 1000]
-[23Mar2025 20:40:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 104.500000, 662.500000]
-[23Mar2025 20:41:25.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:41:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:42:52.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:43:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:43:38.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -254.500000, 100.500000, 736.500000]
-[23Mar2025 20:44:59.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -380.500000, 63.500000, 725.500000]
-[23Mar2025 20:45:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -261.500000, 99.500000, 728.500000]
-[23Mar2025 20:45:34.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [String] to STRANJO]
-[23Mar2025 20:46:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 1 [Lead] to Eguaro]
-[23Mar2025 20:46:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Lead] to STRANJO]
-[23Mar2025 20:47:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 654.500000]
-[23Mar2025 20:48:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -159.500000, 104.500000, 793.500000]
-[23Mar2025 20:48:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:48:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -222.500000, 104.500000, 653.500000]
-[23Mar2025 20:49:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 20:49:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:49:23.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:49:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
-[23Mar2025 20:49:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:50:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO fell from a high place
-[23Mar2025 20:50:10.715] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:50:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -237.500000, 102.500000, 654.500000]
-[23Mar2025 20:50:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
-[23Mar2025 20:50:34.958] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:50:48.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -238.500000, 104.500000, 628.500000]
-[23Mar2025 20:50:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.discreet_search.title]
-[23Mar2025 20:54:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.find_easter_egg.title]
-[23Mar2025 20:54:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.ambush.title]
-[23Mar2025 20:54:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie
-[23Mar2025 20:54:34.163] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:54:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
-[23Mar2025 20:54:46.807] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:54:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 104.500000, 659.500000]
-[23Mar2025 20:54:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 103.500000, 643.500000]
-[23Mar2025 20:54:53.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18208, l='ServerLevel[world]', x=-216.03, y=100.56, z=650.66] died, message: 'Villager was slain by Zombie'
-[23Mar2025 20:54:54.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18209, l='ServerLevel[world]', x=-216.54, y=100.56, z=649.45] died, message: 'Villager was slain by Zombie Villager'
-[23Mar2025 20:54:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
-[23Mar2025 20:54:59.407] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [tombstone.advancement.chain_death.title]
-[23Mar2025 20:55:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Zombie Villager
-[23Mar2025 20:55:04.805] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:55:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.ashes_and_bones.title]
-[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.strong_or_careful.title]
-[23Mar2025 20:55:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was slain by Zombie
-[23Mar2025 20:55:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [tombstone.advancement.first_grave.title]
-[23Mar2025 20:55:05.806] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:55:06.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [tombstone.advancement.fortuitous_militia.title]
-[23Mar2025 20:55:12.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -218.500000, 100.500000, 650.500000]
-[23Mar2025 20:55:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -205.500000, 104.500000, 651.500000]
-[23Mar2025 20:55:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 20:56:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [tombstone.advancement.cancel_ghostly_shape.title]
-[23Mar2025 20:56:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
-[23Mar2025 20:56:05.877] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 20:56:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 20:56:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -197.500000, 103.500000, 653.500000]
-[23Mar2025 20:56:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Armadillo]
-[23Mar2025 20:58:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 20:58:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 20:59:05.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 20:59:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
-[23Mar2025 20:59:05.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 20:59:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 20:59:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 20:59:56.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 146.500000, 66.500000, 205.500000]
-[23Mar2025 20:59:58.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:00:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:00:40.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:02:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 21:03:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:03:19.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 98.500000, -41.500000, 1338.500000]
-[23Mar2025 21:04:30.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -970.500000, 112.500000, 954.500000]
-[23Mar2025 21:04:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:lavagod:L:-978:111:960:6:false:0:Internal-overworld-waypoints
-[23Mar2025 21:04:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:04:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
-[23Mar2025 21:04:45.459] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:04:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -203.500000, 104.500000, 665.500000]
-[23Mar2025 21:05:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -152.500000, 63.500000, 650.500000]
-[23Mar2025 21:05:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Iron Golem
-[23Mar2025 21:05:13.362] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:05:16.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -205.500000, 106.500000, 662.500000]
-[23Mar2025 21:05:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 21:06:07.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 21:06:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 21:07:41.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:11:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 104.500000, 640.500000]
-[23Mar2025 21:11:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -217.500000, 111.500000, 649.500000]
-[23Mar2025 21:11:46.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 114.500000, 647.500000]
-[23Mar2025 21:12:05.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
-[23Mar2025 21:13:23.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:13:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:14:20.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
-[23Mar2025 21:14:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 104.500000, 639.500000]
-[23Mar2025 21:14:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Summoned new Lightning Bolt]
-[23Mar2025 21:14:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 175.500000, 120.500000, 644.500000]
-[23Mar2025 21:14:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 117.500000, 647.500000]
-[23Mar2025 21:14:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
-[23Mar2025 21:16:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 117.500000, 651.500000]
-[23Mar2025 21:16:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -175.500000, 107.500000, 788.500000]
-[23Mar2025 21:17:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:17:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 117.500000, 647.500000]
-[23Mar2025 21:17:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -217.500000, 101.500000, 649.500000]
-[23Mar2025 21:18:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:18:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -217.500000, 117.500000, 651.500000]
-[23Mar2025 21:18:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:18:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:18:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:18:56.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:18:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:19:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 117.500000, 647.500000]
-[23Mar2025 21:19:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 117.500000, 648.500000]
-[23Mar2025 21:20:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 117.500000, 651.500000]
-[23Mar2025 21:21:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 117.500000, 647.500000]
-[23Mar2025 21:21:54.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:22:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 123.500000, 648.500000]
-[23Mar2025 21:22:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
-[23Mar2025 21:22:48.320] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:22:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -220.500000, 113.500000, 648.500000]
-[23Mar2025 21:22:56.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:23:09.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:23:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:23:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -217.500000, 123.500000, 649.500000]
-[23Mar2025 21:24:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -220.500000, 104.500000, 639.500000]
-[23Mar2025 21:24:42.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Gave 1 [Iron Pickaxe] to Ferj2202]
-[23Mar2025 21:27:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 127.500000, 650.500000]
-[23Mar2025 21:27:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -220.500000, 104.500000, 639.500000]
-[23Mar2025 21:27:30.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Gave 1 [Ender Pearl] to Eguaro]
-[23Mar2025 21:28:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 127.500000, 650.500000]
-[23Mar2025 21:28:30.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 104.500000, 639.500000]
-[23Mar2025 21:28:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 127.500000, 648.500000]
-[23Mar2025 21:29:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 173.500000, 121.500000, 642.500000]
-[23Mar2025 21:29:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> attribute @nametag minecraft:el objeto que quieran[food={nutrition:4,saturation:2,is_meat:false,can_always_eat:true,eat_seconds:3}]
-[23Mar2025 21:30:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 127.500000, 649.500000]
-[23Mar2025 21:30:08.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -157.500000, 63.500000, 642.500000]
-[23Mar2025 21:30:10.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -217.500000, 127.500000, 650.500000]
-[23Mar2025 21:30:20.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -218.500000, 130.500000, 651.500000]
-[23Mar2025 21:30:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 5 [Blue Bed] to Eguaro]
-[23Mar2025 21:31:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -218.500000, 130.500000, 651.500000]
-[23Mar2025 21:32:23.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:32:27.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:32:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:32:28.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:32:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Villager]
-[23Mar2025 21:32:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 130.500000, 647.500000]
-[23Mar2025 21:32:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:32:56.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -210.500000, 114.500000, 648.500000]
-[23Mar2025 21:33:42.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 150 [Dirt Path] to Eguaro]
-[23Mar2025 21:33:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 127.500000, 652.500000]
-[23Mar2025 21:34:35.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:36:45.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 200 [Dirt Path] to Eguaro]
-[23Mar2025 21:37:18.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:38:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:38:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Ferj2202 to Eguaro]
-[23Mar2025 21:39:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Enderman
-[23Mar2025 21:39:23.352] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:39:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
-[23Mar2025 21:40:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -210.500000, 127.500000, 644.500000]
-[23Mar2025 21:40:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 130.500000, 647.500000]
-[23Mar2025 21:40:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:42:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:42:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Spider]
-[23Mar2025 21:42:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Summoned new Spider]
-[23Mar2025 21:42:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 130.500000, 650.500000]
-[23Mar2025 21:42:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Gave 200 [Dirt Path] to Eguaro]
-[23Mar2025 21:43:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -213.500000, 104.500000, 661.500000]
-[23Mar2025 21:43:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
-[23Mar2025 21:43:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -172.500000, 107.500000, 788.500000]
-[23Mar2025 21:44:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -221.500000, 127.500000, 651.500000]
-[23Mar2025 21:44:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:44:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -232.500000, 103.500000, 651.500000]
-[23Mar2025 21:45:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:45:10.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
-[23Mar2025 21:45:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
-[23Mar2025 21:45:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -174.500000, 107.500000, 787.500000]
-[23Mar2025 21:45:52.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
-[23Mar2025 21:46:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:48:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
-[23Mar2025 21:48:17.057] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:48:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
-[23Mar2025 21:48:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -218.500000, 130.500000, 651.500000]
-[23Mar2025 21:49:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
-[23Mar2025 21:49:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 104.500000, 659.500000]
-[23Mar2025 21:51:19.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro fell from a high place
-[23Mar2025 21:51:19.059] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:51:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -215.500000, 104.500000, 660.500000]
-[23Mar2025 21:54:11.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Zombie
-[23Mar2025 21:54:11.506] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 21:54:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -212.500000, 103.500000, 658.500000]
-[23Mar2025 21:57:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
-[23Mar2025 22:00:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
-[23Mar2025 22:00:54.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -219.500000, 130.500000, 651.500000]
-[23Mar2025 22:01:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
-[23Mar2025 22:30:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was doomed to fall by Phantom
-[23Mar2025 22:30:47.698] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
-[23Mar2025 22:32:22.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -204.500000, 104.500000, 675.500000]
-[23Mar2025 23:31:35.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
-[23Mar2025 23:31:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
-[23Mar2025 23:34:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[23Mar2025 23:34:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23Mar2025 23:34:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23Mar2025 23:34:30.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Server closed
-[23Mar2025 23:34:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
-[23Mar2025 23:34:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23Mar2025 23:34:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23Mar2025 23:34:31.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23Mar2025 23:34:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23Mar2025 23:34:31.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Mar2025 23:34:31.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Mar2025 23:34:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Mar2025 23:34:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Mar2025 00:33:51.825] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[24Mar2025 00:33:51.829] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[24Mar2025 00:33:51.830] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[24Mar2025 00:33:52.215] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[24Mar2025 00:33:52.337] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[24Mar2025 00:33:52.799] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[24Mar2025 00:33:54.348] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Mar2025 00:33:54.351] [main/INFO] [mixin/]: Compatibility level set to JAVA_18
+[24Mar2025 00:33:54.404] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[24Mar2025 00:33:54.445] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[24Mar2025 00:33:54.479] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.480] [main/WARN] [mixin/]: Reference map 'enchdesc.refmap.json' for enchdesc.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.493] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.499] [main/WARN] [mixin/]: Reference map 'adlods.refmap.json' for adlods.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.500] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.503] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.507] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.639] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.640] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.640] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.642] [main/WARN] [mixin/]: Reference map 'fusion.mixins.refmap.json' for fusion.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.647] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.650] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.651] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.652] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:54.653] [main/WARN] [mixin/]: Reference map 'travelerstitles.refmap.json' for travelerstitles_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 00:33:55.645] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Mar2025 00:33:56.019] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[24Mar2025 00:33:56.193] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/disemVanilla/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[24Mar2025 00:34:03.799] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[24Mar2025 00:34:04.036] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.39, for MC 1.21.1 with MCP 20240808.132146
+[24Mar2025 00:34:04.037] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.39 Initialized
+[24Mar2025 00:34:04.072] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[24Mar2025 00:34:04.975] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24Mar2025 00:34:04.979] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24Mar2025 00:34:04.984] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24Mar2025 00:34:04.985] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24Mar2025 00:34:05.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[24Mar2025 00:34:05.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.128 Target: null
+[24Mar2025 00:34:05.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.21.1&ml=forge
+[24Mar2025 00:34:06.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 21.1.5 Target: 21.1.5
+[24Mar2025 00:34:06.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[24Mar2025 00:34:06.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.2.9.2 Target: null
+[24Mar2025 00:34:06.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[24Mar2025 00:34:06.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
+[24Mar2025 00:34:06.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Starting version check at https://forge.curseupdate.com/244844/forgeendertech
+[24Mar2025 00:34:06.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forgeendertech] Found status: UP_TO_DATE Current: 12.0.0.1 Target: null
+[24Mar2025 00:34:06.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Starting version check at https://forge.curseupdate.com/318833/adlods
+[24Mar2025 00:34:06.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [adlods] Found status: UP_TO_DATE Current: 9.0.0.0 Target: null
+[24Mar2025 00:34:06.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[24Mar2025 00:34:06.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.2.1 Target: 2.2.1
+[24Mar2025 00:34:06.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[24Mar2025 00:34:06.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.9 Target: null
+[24Mar2025 00:34:06.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[24Mar2025 00:34:06.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.5 Target: null
+[24Mar2025 00:34:06.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[24Mar2025 00:34:06.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[24Mar2025 00:34:06.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Mar2025 00:34:06.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.1.10 Target: null
+[24Mar2025 00:34:06.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=forge
+[24Mar2025 00:34:06.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.50 Target: 21.1.50
+[24Mar2025 00:34:06.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[24Mar2025 00:34:06.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.354 Target: null
+[24Mar2025 00:34:06.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Starting version check at https://updates.blamejared.com/get?n=prickle&gv=1.21.1&ml=forge
+[24Mar2025 00:34:06.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prickle] Found status: BETA Current: 21.1.6 Target: 21.1.6
+[24Mar2025 00:34:06.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Mar2025 00:34:06.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.39 Target: 52.1.0
+[24Mar2025 00:34:07.330] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[24Mar2025 00:34:10.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1750 recipes
+[24Mar2025 00:34:11.123] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1999 advancements
+[24Mar2025 00:34:11.127] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[24Mar2025 00:34:11.128] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[24Mar2025 00:34:11.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[24Mar2025 00:34:11.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Mar2025 00:34:11.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Mar2025 00:34:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Mar2025 00:34:12.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Mar2025 00:34:12.264] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Mar2025 00:34:12.378] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Mar2025 00:34:12.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Mar2025 00:34:12.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Mar2025 00:34:12.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Mar2025 00:34:12.435] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[24Mar2025 00:34:12.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[24Mar2025 00:34:12.436] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[24Mar2025 00:34:12.437] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[24Mar2025 00:34:12.437] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[24Mar2025 00:34:12.439] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[24Mar2025 00:34:12.440] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:glowstone
+[24Mar2025 00:34:12.441] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[24Mar2025 00:34:12.441] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 minecraft:torch
+[24Mar2025 00:34:12.443] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[24Mar2025 00:34:12.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Mar2025 00:34:17.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Mar2025 00:34:17.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 00:34:17.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Mar2025 00:34:18.001] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 776 ms
+[24Mar2025 00:34:18.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.609s)! For help, type "help"
+[24Mar2025 00:34:18.029] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Mar2025 00:34:46.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.114.106.18:59998] logged in with entity id 163 at (-172.5, 107.5625, 781.5)
+[24Mar2025 00:34:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[24Mar2025 00:35:12.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/228, l='ServerLevel[world]', x=-258.72, y=74.80, z=756.15] died, message: 'Villager was slain by Zombie'
+[24Mar2025 00:35:43.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:62897] logged in with entity id 456 at (-225.55871377039614, 136.0, 639.2270014653424)
+[24Mar2025 00:35:43.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[24Mar2025 00:36:17.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -224.500000, 104.500000, 639.500000]
+[24Mar2025 00:37:15.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was doomed to fall by Skeleton
+[24Mar2025 00:37:15.626] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 00:37:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -225.500000, 103.500000, 643.500000]
+[24Mar2025 00:37:23.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -184.500000, 104.500000, 777.500000]
+[24Mar2025 00:37:25.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -216.500000, 128.500000, 649.500000]
+[24Mar2025 00:37:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -228.500000, 104.500000, 645.500000]
+[24Mar2025 00:38:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[24Mar2025 00:38:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 00:39:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[24Mar2025 00:42:28.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[24Mar2025 00:42:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[24Mar2025 00:43:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -904.500000, 106.500000, 867.500000]
+[24Mar2025 00:43:45.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
