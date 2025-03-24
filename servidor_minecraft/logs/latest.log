@@ -142,3 +142,20 @@
 [24Mar2025 01:11:18.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -252.500000, -29.500000, 805.500000]
 [24Mar2025 01:12:06.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eguaro> xaero-waypoint:Templo:T:-253:-30:803:1:false:0:Internal-overworld-waypoints
 [24Mar2025 01:12:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -193.500000, -33.500000, 823.500000]
+[24Mar2025 01:14:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro hit the ground too hard
+[24Mar2025 01:14:19.741] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:14:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -147.500000, -34.500000, 806.500000]
+[24Mar2025 01:14:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -176.500000, -40.500000, 850.500000]
+[24Mar2025 01:15:19.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[24Mar2025 01:15:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -75.500000, 70.500000, 807.500000]
+[24Mar2025 01:16:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[24Mar2025 01:16:41.302] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[24Mar2025 01:16:44.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -148.500000, 81.500000, 843.500000]
+[24Mar2025 01:18:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -155.500000, 105.500000, 779.500000]
+[24Mar2025 01:20:33.838] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-175, y=108, z=784}) doesn't have enough leaves around top most log
+[24Mar2025 01:20:34.635] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-176, y=108, z=784}) doesn't have enough leaves around top most log
+[24Mar2025 01:21:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -184.500000, 104.500000, 777.500000]
+[24Mar2025 01:23:46.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -94.500000, 71.500000, 822.500000]
+[24Mar2025 01:23:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -229.500000, 108.500000, 676.500000]
+[24Mar2025 01:24:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -436.500000, 103.500000, 679.500000]
+[24Mar2025 01:24:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -269.500000, 83.500000, 429.500000]
