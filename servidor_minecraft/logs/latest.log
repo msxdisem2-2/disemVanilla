@@ -155,3 +155,38 @@
 [28Mar2025 01:22:42.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -963.500000, -38.500000, 1119.500000]
 [28Mar2025 01:23:47.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -981.500000, -34.500000, 1181.500000]
 [28Mar2025 01:24:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -965.500000, -40.500000, 1193.500000]
+[28Mar2025 01:25:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -980.500000, -19.500000, 1182.500000]
+[28Mar2025 01:26:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -950.500000, -36.500000, 1114.500000]
+[28Mar2025 01:26:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -952.500000, -36.500000, 1114.500000]
+[28Mar2025 01:29:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -976.500000, -20.500000, 1199.500000]
+[28Mar2025 01:29:45.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[28Mar2025 01:29:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -986.500000, -19.500000, 1184.500000]
+[28Mar2025 01:29:58.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.enchant_voodoo_poppet.title]
+[28Mar2025 01:29:58.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [tombstone.advancement.create_voodoo_poppet.title]
+[28Mar2025 01:30:14.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[28Mar2025 01:30:14.163] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:30:17.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -977.500000, -18.500000, 1186.500000]
+[28Mar2025 01:31:23.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[28Mar2025 01:31:23.112] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:31:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was shot by Skeleton
+[28Mar2025 01:31:25.686] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:31:27.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -972.500000, -19.500000, 1186.500000]
+[28Mar2025 01:31:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -971.500000, -19.500000, 1180.500000]
+[28Mar2025 01:31:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Slime
+[28Mar2025 01:31:49.612] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:31:53.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -971.500000, -19.500000, 1183.500000]
+[28Mar2025 01:32:25.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Slime
+[28Mar2025 01:32:25.925] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:32:28.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -962.500000, -19.500000, 1182.500000]
+[28Mar2025 01:32:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Slime
+[28Mar2025 01:32:29.363] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:32:32.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -966.500000, -19.500000, 1186.500000]
+[28Mar2025 01:33:51.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[28Mar2025 01:33:51.462] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:33:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -987.500000, -19.500000, 1188.500000]
+[28Mar2025 01:34:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was shot by Skeleton
+[28Mar2025 01:34:13.512] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:34:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -980.500000, -12.500000, 1188.500000]
+[28Mar2025 01:34:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[28Mar2025 01:34:19.562] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:34:22.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -987.500000, -19.500000, 1185.500000]
