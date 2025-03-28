@@ -2727,3 +2727,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Mar2025 00:59:13.654] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3674, l='ServerLevel[world]', x=-164.88, y=104.24, z=792.23, removed=DISCARDED]
 [28Mar2025 00:59:25.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Mar2025 00:59:25.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 01:04:25.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 01:04:25.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 01:06:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was shot by Skeleton
+[28Mar2025 01:06:40.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eguaro was created at position [x:-298, y:-28, z:762, dim:minecraft:overworld]
+[28Mar2025 01:06:40.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Eguaro'/163, l='ServerLevel[world]', x=-297.71, y=-28.00, z=762.25]
+[28Mar2025 01:06:40.275] [Server thread/INFO] [tombstone/]: tombstone.message.recovery.save_player.success
+[28Mar2025 01:06:44.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -298.500000, -27.500000, 762.500000]
+[28Mar2025 01:09:25.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 01:09:25.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 01:11:55.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
