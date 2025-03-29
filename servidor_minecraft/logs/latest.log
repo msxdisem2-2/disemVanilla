@@ -101,3 +101,24 @@
 [29Mar2025 02:00:46.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
 [29Mar2025 02:00:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has reached the goal [tombstone.advancement.easter.title]
 [29Mar2025 02:03:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 230.500000, 67.500000, 170.500000]
+[29Mar2025 02:05:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -95.500000, -48.500000, 202.500000]
+[29Mar2025 02:05:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:06:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -95.500000, -48.500000, 202.500000]
+[29Mar2025 02:07:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -248.500000, -53.500000, 68.500000]
+[29Mar2025 02:10:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -221.500000, -52.500000, 163.500000]
+[29Mar2025 02:18:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:20:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [tombstone.advancement.find_easter_egg.title]
+[29Mar2025 02:21:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:21:32.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[29Mar2025 02:21:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[29Mar2025 02:21:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Mar2025 02:21:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 02:21:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 02:21:48.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 02:21:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 02:21:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 02:21:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 02:21:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

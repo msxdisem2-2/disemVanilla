@@ -2647,3 +2647,63 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Mar2025 02:03:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 230.500000, 67.500000, 170.500000]
 [29Mar2025 02:03:31.800] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/253, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61, removed=UNLOADED_TO_CHUNK]
 [29Mar2025 02:03:31.800] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/254, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22, removed=UNLOADED_TO_CHUNK]
+[29Mar2025 02:04:36.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:04:36.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:05:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -95.500000, -48.500000, 202.500000]
+[29Mar2025 02:05:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:05:23.299] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/1606, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61], dimensionLocationPath overworld
+[29Mar2025 02:05:23.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/1606, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3]
+[29Mar2025 02:05:23.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/1607, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22], dimensionLocationPath overworld
+[29Mar2025 02:05:23.301] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/1607, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@646]
+[29Mar2025 02:05:25.942] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[29Mar2025 02:06:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -95.500000, -48.500000, 202.500000]
+[29Mar2025 02:06:26.435] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/1606, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61, removed=UNLOADED_TO_CHUNK]
+[29Mar2025 02:06:26.435] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/1607, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22, removed=UNLOADED_TO_CHUNK]
+[29Mar2025 02:07:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -248.500000, -53.500000, 68.500000]
+[29Mar2025 02:09:36.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:09:36.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:10:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -221.500000, -52.500000, 163.500000]
+[29Mar2025 02:14:36.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:14:36.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:18:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:18:58.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/4101, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61], dimensionLocationPath overworld
+[29Mar2025 02:18:58.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/4101, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3]
+[29Mar2025 02:18:58.165] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/4102, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22], dimensionLocationPath overworld
+[29Mar2025 02:18:58.165] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/4102, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@a3, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1005]
+[29Mar2025 02:19:00.695] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/4101, l='ServerLevel[world]', x=-299.84, y=-26.00, z=843.61, removed=DISCARDED]
+[29Mar2025 02:19:00.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/4102, l='ServerLevel[world]', x=-299.94, y=-26.00, z=845.22, removed=DISCARDED]
+[29Mar2025 02:19:36.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:19:36.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:20:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [tombstone.advancement.find_easter_egg.title]
+[29Mar2025 02:21:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -175.500000, 107.500000, 781.500000]
+[29Mar2025 02:21:32.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[29Mar2025 02:21:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[29Mar2025 02:21:32.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/163, l='ServerLevel[world]', x=-176.50, y=107.56, z=786.50, removed=UNLOADED_WITH_PLAYER]
+[29Mar2025 02:21:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Mar2025 02:21:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 02:21:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 02:21:48.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 02:21:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 02:21:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 02:21:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 02:21:48.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:21:48.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:21:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 02:21:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Mar2025 02:21:48.907] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Mar2025 02:21:48.913] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[SERVER]
+[29Mar2025 02:21:48.913] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type COMMON
+[29Mar2025 02:21:48.916] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Stopping watcher for hander: ConfigFileTypeHandler[COMMON]
+[29Mar2025 02:21:49.409] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[29Mar2025 02:21:49.414] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file usefulbackpacks-common.toml changed, sending notifies
+[29Mar2025 02:21:49.415] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file advancednetherite-server.toml changed, sending notifies
+[29Mar2025 02:21:49.417] [pool-5-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[29Mar2025 02:21:49.417] [pool-5-thread-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[29Mar2025 02:21:49.417] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file adlods-common.toml changed, sending notifies
+[29Mar2025 02:21:49.418] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file advancednetherite-common.toml changed, sending notifies
+[29Mar2025 02:21:49.423] [pool-6-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
+[29Mar2025 02:21:49.426] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-common.toml changed, sending notifies
+[29Mar2025 02:21:49.427] [pool-3-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-common.toml changed, sending notifies
+[29Mar2025 02:21:49.427] [pool-3-thread-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
